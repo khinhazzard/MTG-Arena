@@ -1,0 +1,103 @@
+Strategy:
+- Ramp aggressively into Big Mana.
+- Survive the early game with efficient interaction.
+- Use the graveyard as a toolbox for Sin.
+- Overwhelm the board with massive Sea Monsters.
+- Protect your finishers with premium counterspells.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Waterlogged Teachings Targets
+
++ Pact of Negation (4 mana) -> Stop a game-winning spell while tapped out.
++ Flare of Denial (4 mana) -> Free counter by sacrificing a blue creature.
++ Entomb (5 mana) -> Put the best permanent into your graveyard for Sin.
++ Harrow (7 mana) -> Ramp at instant speed.
++ Beast Within (7 mana) -> Destroy any permanent.
++ Dig Through Time (8-10 mana) -> Find your best two cards.
++ Spell Swindle (9 mana) -> Counter a bomb and create Treasures.
++ Cyclonic Rift (11 mana) -> Reset overwhelming boards.
++ Hullbreaker Horror (11 mana) -> Flash finisher.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Notable Combos
+
+🌱 Big Mana Explosion
++ Virtue of Strength + Nyxbloom Ancient = Massive mana production.
++ Nyxbloom Ancient + The Great Henge = Cast multiple Sea Monsters in one turn.
+
+🌊 Sea Monster Value
++ Runo Stromkirk + Waker of Waves = Easy transformation.
++ Runo Stromkirk + Any 6+ mana Sea Monster = Free token every combat.
++ Kiora, Sovereign of the Deep + Sea Monsters = Reduce the mana cost of expensive Sea Monsters.
+
+💥 Board Control
++ Whelming Wave = One-sided board wipe.
++ Slinn Voda (Kicked) = Reset non-Sea creature boards.
++ Cyclonic Rift (Overload) = Reset opposing boards.
++ Stormtide Leviathan + Whelming Wave = Clear opposing creatures while your Sea Monsters remain.
+
+🌾 Land Value
++ Lumra + Harrow = Recover sacrificed lands.
++ Westvale Abbey = Long-game mana sink / alternate win condition.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ENTOMB PRIORITY
+
+Need Mana
+(8) Lumra, Bellow of the Woods
+(7) Nyxbloom Ancient
+(7) Virtue of Strength
+(9) The Great Henge
+
+Need to Win
+(7) Koma, Cosmos Serpent
+(7) Hullbreaker Horror
+(7) Kiora Bests the Sea God
+
+Need Board Control
+(8 or 10) Slinn Voda, the Rising Deep
+(8) Stormtide Leviathan
+(5) Psychic Pickpocket
+(6) Summon: Leviathan
+
+Need Value
+(4) Monstrous Vortex
+(3) Kozilek's Unsealing
+(6) Lochmere Serpent
+(6) Shipbreaker Kraken
+(6) Prime Speaker Zegana
+(6) Gyruda, Doom of Depths
+(8) Lorthos, the Tidemaker
+(7) Waker of Waves
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Future Testing
+
++ The Unagi of Kyoshi Island
++ Serpent of Yawning Depths
++ Archival Whorl
++ Reservoir Kraken
++ Icebreaker Kraken
++ Elder Deep-Fiend
++ Gilded Lotus
++ Sapphire Medallion
++ Pristine Talisman
++ Force of Negation
++ Shark Shredder
++ Consuming Tide
++ Flood of Tears
++ Dredger's Insight
++ Collective Brutality
++ Soul Shatter
++ Tireless Angler
++ Tome of the Infinite
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Removed / No Longer Applicable
+
+- Consider
+- Frantic Search
+- Crop Rotation
+- Xolatoyac, the Smiling Flood
+- Tolarian Kraken
+- Mockingbird

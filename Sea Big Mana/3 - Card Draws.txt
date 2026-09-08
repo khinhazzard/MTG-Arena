@@ -1,0 +1,48 @@
+📈 Category 1: Net Card Gain - 13
+(3) Acquisition Octopus
+(3) Kiora, Behemoth Beckoner
+(3) Kozilek's Unsealing
+(3) Rhystic Study
+(3) Sea-Dasher Octopus
+(3) Compulsive Research
+(4) Kiora, the Crashing Wave
+(5) Tatyova, Benthic Druid    - LG
+(6) Lochmere Serpent
+(6) Prime Speaker Zegana
+(6) Summon: Leviathan          - GV (when Saga ends)
+(8) Dig Through Time           - Filter
+(9) The Great Henge
+
+⚖️ Category 2: Net Neutral - 6
+(2) Growth Spiral
+(3) Zagoth Triome
+(6) Tidal Terror               - CY + GV
+(7) Waker of Waves              - Filter + GV
+(6) Gyruda, Doom of Depths
+(7) Koma, World-Eater
+
+⚡ Category 3: Card Draw Payoffs - 2
+(2) Ominous Seas                - CY
+(3) Nadir Kraken
+(4) Monstrous Vortex
+
+Legend:
+GV - Graveyard
+CY - Cycling
+LG - Lifegain
+
+Removed:
+(1) Cling to Dust              - Filter (Replaced by Tend the Pests)
+(3+) Three Steps Ahead         - Filter
+(3) Supreme Will               - Filter
+(3) Refute                     - Filter + GV
+(3) Thirst for Meaning         - Filter + GV (Replaced by Waker of Waves)
+(4) Rain of Revelation         - Filter + GV
+(3) Thirst for Discovery       - Filter
+(2) Tainted Indulgence         - Filter (Replaced by Migration Path)
+(1) Consider                   - Filter + GV
+(3) Frantic Search             - Filter + GV
+(7) Starwinder
+(5) The Watcher in the Water
+(6) Tolarian Kraken
+(4) Migration Path

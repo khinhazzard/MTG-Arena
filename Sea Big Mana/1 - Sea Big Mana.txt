@@ -1,0 +1,200 @@
+Commander(X) Sin, Spira's Punishment
+
+~~~~~~~~~~~~~~~~~~~~
+🌊 Theme 1: Sea Monsters (Main Theme) - 29
+(2) Caelorna, Coral Tyrant
+(2) Ominous Seas
+(3) Nadir Kraken
+(3) Acquisition Octopus
+(3) Sea-Dasher Octopus
+(3) Runo Stromkirk
+(4) Charix, the Raging Isle
+(4) Kiora, the Crashing Wave
+(4) Monstrous Vortex
+(5) Mesmerizing Benthid
+(5) Psychic Pickpocket
+(5) Kiora, Sovereign of the Deep
+(6) Prime Speaker Zegana
+(6) Shipbreaker Kraken
+(6) Tidal Terror
+(6) Summon: Leviathan
+(6) Lochmere Serpent
+(6) Grappling Kraken
+(6) Gyruda, Doom of Depths
+(7) Koma, Cosmos Serpent
+(7) Hullbreaker Horror
+(7) Koma, World-Eater
+(7) Waker of Waves
+(7) Glacier Godmaw
+(8) Stormtide Leviathan
+(8 or 10) Slinn Voda, the Rising Deep
+(8) Striped Riverwinder
+(8) Famished Worldsire
+(8) Lorthos, the Tidemaker
+
+~~~~~~~~~~~~~~~~~~~~
+🌱 Theme 2: Big Mana / Ramp - 17 (+ Culling Ritual)
+(2) Arcane Signet
+(2) Growth Spiral
+(3) Growing Rites of Itlimoc
+(3) Nissa's Pilgrimage
+(3) Kiora, Behemoth Beckoner
+(3) Entish Restoration
+(3) Harrow
+(3) Cultivate
+(3) Chromatic Lantern
+(3) Kozilek's Unsealing
+(4) The Water Crystal
+(7) Virtue of Strength
+(7) Nyxbloom Ancient
+(7) Kiora Bests the Sea God
+    → by stealing land
+(8) Lumra, Bellow of the Woods
+(8) Through the Forest Gate
+(9) The Great Henge
+
+~~~~~~~~~~~~~~~~~~~~
+♻️ Theme 3: Graveyard Value / Looting - 6
+(1) Entomb
+(7) Waker of Waves
+(3) Compulsive Research
+(3) Kiora, the Rising Tide
+(8) Dig Through Time
+(X) Sin, Spira's Punishment
+
+~~~~~~~~~~~~~~~~~~~~
+🛡️ Interaction
+
+Counterspells (4)
+(0) Pact of Negation
+(2) Counterspell
+(3) Flare of Denial
+(5) Spell Swindle
+
+Spot Removal
+(3) Beast Within
+(3) Awaken the Honored Dead
+(L) Boseiju, Who Endures
+(L) Otawara, Soaring City
+
+Board Wipes (6)
+(4) Culling Ritual
+(4) Damnation
+(4) Whelming Wave
+(2 or 8) Cyclonic Rift
+(8 or 10) Slinn Voda, the Rising Deep
+(6) Summon: Leviathan
+
+~~~~~~~~~~~~~~~~~~~~
+⭐ Utility
+(3) Rhystic Study
+(5) Tatyova, Benthic Druid
+(7) Colossal Skyturtle
+(Land) Waterlogged Teachings
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Get / Test (Priority)
+
+(5) The Unagi of Kyoshi Island
+(6) Serpent of Yawning Depths
+(4) Reservoir Kraken
+(12) Icebreaker Kraken
+(8/7) Elder Deep-Fiend
+
+(5) Gilded Lotus
+(2) Sapphire Medallion
+(3) Pristine Talisman
+
+(3) Force of Negation
+(4) Shark Shredder
+(4) Consuming Tide
+(6) Flood of Tears
+(2) Dredger's Insight
+(2) Collective Brutality
+(3) Soul Shatter
+(3) Tireless Angler
+(3) Tome of the Infinite
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Future Lands
+
+Yavimaya, Cradle of Growth
+Lotus Field
+Rogue's Passage
+Takenouma, Abandoned Mire
+Botanical Sanctum
+Willowrush Verge
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Deck Card History
+
+Sea Monsters
+
+(5) The Watcher in the Water
+(5) Iceridge Serpent
+(7) Starwinder
+    → Replaced by (7) Koma, World-Eater
+(7) Junk Winder
+    → Replaced by (7) Colossal Skyturtle
+(6) Tolarian Kraken
+    → Replaced by (6) Prime Speaker Zegana
+(7) Glint Weaver
+    → Replaced by (8) Lorthos, the Tidemaker
+(X) Xolatoyac, the Smiling Flood
+    → Replaced by (6) Gyruda, Doom of Depths
+
+Graveyard / Looting
+(2) Strategic Planning
+(3) Necromancy
+(2) Chart a Course
+(1) Otherworldly Gaze
+(1) Cling to Dust
+(4) Rain of Revelation
+(2) Tainted Indulgence
+(3) Thirst for Discovery
+(3) Nyx Weaver
+(1) Analyze the Pollen
+(2) Tend the Pests
+(1) Consider
+(3) Frantic Search
+    → Replaced by (3) Compulsive Research
+
+Ramp
+(1) Culling the Weak
+(4) Hedron Archive
+(2) Into the North
+(2) Satyr Wayfinder
+(3) Tireless Provisioner
+(2) Rampant Growth
+(2) Farseek
+(4) Migration Path
+    → Replaced by (8) Through the Forest Gate
+(2) Planar Genesis
+    → Replaced by (3) Growing Rites of Itlimoc
+
+Board Wipes
+(4) Aetherize
+(3) Filter Out
+(8) Sandwurm Convergence
+
+Removal
+(1) Cut Down
+(1) Fatal Push
+(2) Sheoldred's Edict
+(2 or 4) Tear Asunder
+(2) Assassin's Trophy
+(2) Bitter Triumph
+
+Protection
+(1) Haywire Mite
+(1) Tamiyo's Safekeeping
+(2) Lightning Greaves
+(3) Retreat to Kazandu
+
+Other
+(5) Syr Elenora, the Discerning
+(1+) Mockingbird
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Inspirational Source:
+https://edhrec.com/deckpreview/r0MNtM5q1KNWm79UkKlKPA
