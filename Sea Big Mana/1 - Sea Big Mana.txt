@@ -1,7 +1,7 @@
 Commander(X) Sin, Spira's Punishment
 
 ~~~~~~~~~~~~~~~~~~~~
-🌊 Theme 1: Sea Monsters (Main Theme) - 29
+🌊 Theme 1: Sea Monsters (Main Theme) - 30
 (2) Caelorna, Coral Tyrant
 (2) Ominous Seas
 (3) Nadir Kraken
@@ -31,22 +31,21 @@ Commander(X) Sin, Spira's Punishment
 (8) Striped Riverwinder
 (8) Famished Worldsire
 (8) Lorthos, the Tidemaker
+(12) Icebreaker Kraken
 
 ~~~~~~~~~~~~~~~~~~~~
-🌱 Theme 2: Big Mana / Ramp - 17 (+ Culling Ritual)
+🌱 Theme 2: Big Mana / Ramp - 14
+(1) Exploration
 (2) Arcane Signet
-(2) Growth Spiral
-(3) Growing Rites of Itlimoc
+(2) Sapphire Medallion
 (3) Nissa's Pilgrimage
-(3) Kiora, Behemoth Beckoner
 (3) Entish Restoration
 (3) Harrow
 (3) Cultivate
 (3) Chromatic Lantern
-(3) Kozilek's Unsealing
 (4) The Water Crystal
+(4) Hedron Archive
 (7) Virtue of Strength
-(7) Nyxbloom Ancient
 (7) Kiora Bests the Sea God
     → by stealing land
 (8) Lumra, Bellow of the Woods
@@ -67,19 +66,18 @@ Commander(X) Sin, Spira's Punishment
 
 Counterspells (4)
 (0) Pact of Negation
-(2) Counterspell
+(2) Miscalculation
 (3) Flare of Denial
 (5) Spell Swindle
 
 Spot Removal
+(2) Assassin's Trophy
 (3) Beast Within
-(3) Awaken the Honored Dead
 (L) Boseiju, Who Endures
 (L) Otawara, Soaring City
 
-Board Wipes (6)
+Board Wipes (5)
 (4) Culling Ritual
-(4) Damnation
 (4) Whelming Wave
 (2 or 8) Cyclonic Rift
 (8 or 10) Slinn Voda, the Rising Deep
@@ -87,10 +85,25 @@ Board Wipes (6)
 
 ~~~~~~~~~~~~~~~~~~~~
 ⭐ Utility
+(3) Kiora, Behemoth Beckoner
 (3) Rhystic Study
 (5) Tatyova, Benthic Druid
 (7) Colossal Skyturtle
 (Land) Waterlogged Teachings
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Evaluating Cards:
+(6) Lumra, Bellow the Woods
+    → The Bad: not a sea monster
+    → The Good: can block air + ramp
+
+(6) Prime Speaker Zegana
+    → The Bad: depends on existing creatures to have high value
+    → The Good: card draw + merfolk
+
+(7) Nyxbloom Ancient
+    → The Bad: High Mana Cost with 3 Green, not a sea monster
+    → The Good: Good Graveyard target for commander, Solves Mana issues
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Get / Test (Priority)
@@ -98,11 +111,9 @@ Get / Test (Priority)
 (5) The Unagi of Kyoshi Island
 (6) Serpent of Yawning Depths
 (4) Reservoir Kraken
-(12) Icebreaker Kraken
 (8/7) Elder Deep-Fiend
 
 (5) Gilded Lotus
-(2) Sapphire Medallion
 (3) Pristine Talisman
 
 (3) Force of Negation
@@ -124,6 +135,7 @@ Rogue's Passage
 Takenouma, Abandoned Mire
 Botanical Sanctum
 Willowrush Verge
+Fetid Pools
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Deck Card History
@@ -161,7 +173,6 @@ Graveyard / Looting
 
 Ramp
 (1) Culling the Weak
-(4) Hedron Archive
 (2) Into the North
 (2) Satyr Wayfinder
 (3) Tireless Provisioner
@@ -171,19 +182,30 @@ Ramp
     → Replaced by (8) Through the Forest Gate
 (2) Planar Genesis
     → Replaced by (3) Growing Rites of Itlimoc
+(2) Growth Spiral
+    → Replaced by (1) Exploration
+(3) Growing Rites of Itlimoc
+    → Replaced by (2) Sapphire Medallion
+(7) Nyxbloom Ancient
+    → Replaced by (4) Hedron Archive
+(3) Kiora, Behemoth Beckoner
+    → Returned to deck; classified as Utility / Card Draw
 
-Board Wipes
-(4) Aetherize
+Board
 (3) Filter Out
-(8) Sandwurm Convergence
+(4) Aetherize
+(8) Sandwurm
+(4) Damnation
+    → Replaced by (12) Icebreaker Kraken
 
 Removal
 (1) Cut Down
 (1) Fatal Push
 (2) Sheoldred's Edict
 (2 or 4) Tear Asunder
-(2) Assassin's Trophy
 (2) Bitter Triumph
+(3) Awaken the Honored Dead
+    → Replaced by (2) Assassin's Trophy
 
 Protection
 (1) Haywire Mite
@@ -194,7 +216,9 @@ Protection
 Other
 (5) Syr Elenora, the Discerning
 (1+) Mockingbird
+(2) Counterspell
+    → Replaced by (2) Miscalculation
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Inspirational Source:
 https://edhrec.com/deckpreview/r0MNtM5q1KNWm79UkKlKPA

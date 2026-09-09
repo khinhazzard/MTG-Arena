@@ -13,15 +13,13 @@
 (8) Dig Through Time           - Filter
 (9) The Great Henge
 
-⚖️ Category 2: Net Neutral - 6
-(2) Growth Spiral
-(3) Zagoth Triome
+⚖️ Category 2: Net Neutral - 4
 (6) Tidal Terror               - CY + GV
 (7) Waker of Waves              - Filter + GV
 (6) Gyruda, Doom of Depths
 (7) Koma, World-Eater
 
-⚡ Category 3: Card Draw Payoffs - 2
+⚡ Category 3: Card Draw Payoffs - 3
 (2) Ominous Seas                - CY
 (3) Nadir Kraken
 (4) Monstrous Vortex
@@ -46,3 +44,4 @@ Removed:
 (5) The Watcher in the Water
 (6) Tolarian Kraken
 (4) Migration Path
+(3) Growing Rites of Itlimoc  - Replaced by Sapphire Medallion
