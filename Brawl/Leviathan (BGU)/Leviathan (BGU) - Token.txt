@@ -1,0 +1,308 @@
+Color: BGU
+
+Commander: Sin, Spira's Punishment	R, FL, TK, AV
+
+(Themes)
+
+Main: MilL, LaND, LandFall, ToKen, GraveYard, 
+LND: 18
+TK: 12
+LF: 10
+ML: 9
+
+Sub: CounteR, SurVeil, DisCard, CYcling
+CR:
+SV:
+DC:
+
+Types: AVatar, KRaken, LeViathan, OCtopus, SerPent, MerFolk
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Lands:
+
+Deathcap Glade (BG)
+Drowned Catacomb (BU)
+
+~~sub replaced
+Shipwreck Marsh (BU)
+Sunken Hollow (BU)
+Watery Grave (BU)
+Polluted Delta (BU)
+Field of the Dead (<>)			S
+Woodland Cemetery (BG)
+Verdant Catacombs (BG)
+Overgrown Tomb (BG)
+Hinterland Harbor (GU)
+Dreamroot Cascade (GU)
+Breeding Pool (GU)
+Shifting Woodland (G)			GV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Current Mana Curve: Creature(Non-creature Permanent)(Spells)
+				    Grand Total	
+0 0(0)(0)				0
+1 5(2)(2)				9					
+2 1(4)(9) 				13 + LAND		
+3 7(3)(4)				14 + LAND CREATURE	
+4 3(4)(2)				9
+5 6(2)(1)				9	
+6-9 6(1)(1)				8 + Commander				
+
+Mana Curve: Creature(Non-Creature Permanent)(Spells)
+0 0(1)(0)				1
+1 5(2)(2)				9			
+2 1(4)(8)				13		
+3 7(3)(4)				14		
+4 4(3)(2)				9		
+5 6(2)(1)				9		
+6-9 6(1)(0)				7 + Commander		
+	
+		
+Total Creatures Goal:			29 + Commander
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+37 Lands: 8 Basic Lands + (Tapped) +  3 LAND Alternatives (21 Limit for Tapped) 
+
+Command Tower (BGU)
+Fabled Passage (BGU)			TP
+Zagoth Triome (BGU)			TP
+Hedge Maze (GU)				TP
+Misty Rainforest (GU)
+Undercity Sewers (BU)			TP
+Underground Mortuary (BG)		TP
+Urborg Tomb of Yawgmoth (B)
+Cephalid Coliseum (U)
+Hydroelectric Specimen (U)		LAND, CREATURE
+Slink into Stupor (U)			LAND, Instant
+Jwari Disruption (U)			LAND, Instant, TP
+Cavern of Souls (<>)			CAVE
+
+~~sub replacement
+Darkslick Shores(BU)			TP
+Dismal Backwater (BU)			TP
+Treno Dark City (BU)			TP
+Waterfront District (BU)		TP
+Captivating Cave (<>)			CAVE, CR
+Llanowar Wastes (BG)
+Restless Corrage (BG)			TP
+Blooming Marsh (BG)			TP
+Yavimaya Coast (GU)	
+Restless Vinestalk (GU)			TP
+Balamb Garden Seed Academy (GU)		TP			
+Kishla Village (G)			SV, TP
+
+
+TBD:
+Bojuka Bog (B)				TP
+Hidden Cataract (U)			CAVE, TP
+Pit of Offerings (<>)			CAVE, TP
+Secluded Courtyard (<>)
+Echoing Deeps (<>)			CAVE, TP
+Soured Springs (BU)			TP
+The Dross Pits(B)			TP
+The Hunter Maze(G)			TP
+~~~~~~~~~~~~~~~~~~~~~~
+6 Board Wipes
+
+Blasphemous Edict
+Toxic Deluge
+Culling Ritual
+Massacre Wurm
+
+
+TBD:
+
+~~~~~~~~~~~~~~~~~~~~~~
+3 Removal Spells
+~~ Hard Removals ~~
+Abrupt Decay
+Assassin's Trophy
+Summon: Bahamut				FL
+Tear Asunder
+
+~~ Soft Removals ~~
+Rapid Hybridization
+
+
+
+TBD:
+Cloud of Darkness			FL, GV
+Plaguecrafter
+Fell the Profane			LAND
+Vile Mutilator				FL
+Decisive Denial
+Airship Crash				CY
+Nature's Claim
+Reclamation Sage
+~~~~~~~~~~~~~~~~~~~~~~
+3 Protection:
+Swiftfoot Boots
+Counterspell
+An offer you can't refuse
+Negate
+Swallowed by Leviathan			SV
+
+
+TBD:
+Spellgyre				SV
+Confounding Riddle			GV
+Louisoix's Sacrifice
+~~~~~~~~~~~~~~~~~~~~~~
+Combat Tricks:
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~
+6 Draw
+
+Glarb Calamity's Augur			
+Ripples of Undeath			ML
+Tatyova Benthic Druid			LF, LG
+Spelunking				LND, LG
+Blitzball
+The Gitrog Monster
+Waker of Waves	
+Treasure Cruise
+Overlord of the Floodpits		FL
+Oblivious Bookworm			DC
+Resentful Revelation			GV
+Jace, the Perfected Mind		ML
+
+TBD:
+The Gitrog Ravenous Ride
+Fang Fearless l'Cie
+Mulldrifter				FL
+Sibsig Appraiser
+Grasping Shadows			LG, CAVE
+Mosswood Dreadknight			GV
+Dreams of Laguna			SV
+~~~~~~~~~~~~~~~~~~~~~~
+9 Recursion:
+
+Conduit of Worlds
+Inspiration from Beyond			ML
+Timeless Witness
+
+TBD:
+Bond of Insight				ML
+Quest for the Necropolis
+Quistis Trepe				GV
+~~~~~~~~~~~~~~~~~~~~~~
+Tutors:
+
+~~~~~~~~~~~~~~~~~~~~~~
+25 Ramp
+Summon: Titan				ML, 
+Nissa, Resurgent Animist		LF
+Overlord of the Hauntwoods	 	TK, AV
+Traveling Chocobo			LND
+Cultivate
+Arcane Signet
+Elvish Mystic
+Embodiment of Spring			LND
+Esper Origins				SV, LG, FB
+Springbloom Druid			LND
+Relm's Sketching			TK
+Entish Restoration			LND
+Kami of Bamboo Groves			LND
+Farseek
+World Map
+
+TBD:s
+Cunning Azurescale			LND
+Citanul Stalwart		
+Skull Prophet				ML
+Enter the Unknown			LND	
+Grapple with the Past			ML
+Bonny Pall, Clearcutter			TK, GV, LND
+Planar Genesis
+Utopia Sprawl
+Solemn Simulacrum			LND
+Rampant Growth
+Harrow
+Molt Tender				ML
+~~~~~~~~~~~~~~~~~~~~~~
+18 Synergies
+Lumra Bellow of the Woods		ML, LND
+Mossborn Hydra				LF, CR
+Rampaging Baloths			LF, TK
+Tireless Provisioner			LF, TK
+Doubling Season 			TK, CR
+Insidious Roots				TK, S
+Retreat to Kazandu			LF, CR
+World Shaper				ML, LND
+Kheru Goldkeeper			FL, CR, GY
+Primeval Bounty				LF, S, CR, LG
+Relm's Sketching			TK
+Skyskipper Duo				FL, UNTAPPER
+Helm of the Host			TK
+Lilysplash Mentor			CR, UNTAPPER
+Adventuring Gear			LF
+Grappling Kraken			LF, TP
+Crawling Sensation			ML, LND, TK
+Exdeath Void Warlock			GV, LG
+
+
+
+TBD:
+Diamond Weapon				GV
+Vanille Cheerful l'Cie			ML
+Gnawing Vermin				ML
+Patchwork Beastie			ML
+Rottenmouth Viper
+Billowing Shriekmass			FL, ML
+Stitcher's Supplier			ML
+Syr Konrad the Grim			ML, GV
+Sazh's Chocobo				LF, CR
+Consuming Abberation
+Troll of Khazad				CYC
+Scrabbling Skullcrab			ML
+Ruin Crab				LF, ML
+Ice Flan				CYC
+Hedge Shredder				ML, LND
+Waterlogged Hulk			ML
+Iridescent Vinelasher			LF
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Deck Reference: Currently Being Used
+Creatures 30 (29 + Commander)
+Instants 9
+Sorceries 8
+Artifacts 6
+Enchantments 9
+Planeswalkers 1
+Lands 37
+https://edhrec.com/deckpreview/NDkox8M9fUS3HDLrsQb3Ag
+
+Mana Curve: Creature(Non-Creature Permanent)(Spells)
+0 0(1)(0)				1
+1 5(2)(2)				9			
+2 1(4)(8)				13		
+3 7(3)(4)				14		
+4 4(3)(2)				9		
+5 6(2)(1)				9		
+6-9 6(1)(0)				7 + Commander			
+
+~~~~~~~~~~~~~~~~~~~~~~
+Deck Reference: Lands Matter, Mills
+Creatures 33 (33 + Commander)
+Instants 8
+Sorceries 7
+Artifacts 7
+Enchantments 5
+Planeswalkers 0
+Lands 39
+https://edhrec.com/deckpreview/6vuUNfSalm6PD8FMidRiLg 
+
+Mana Curve: Creature(Non-Creature Permanent)(Spells)
+1 0(0)(0)						
+2 0(0)(0)						
+3 0(0)(0)						
+4 0(0)(0)						
+5 0(0)(0)						
+6-9 0(0)(0)	+ Commander				
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mega Source:
+https://edhrec.com/decks/sin-spiras-punishment?f=in%253DSummon%253A%2520Titan%253Bin%253DGlarb%252C%2520Calamity%27s%2520Augur%253Bin%253DRipples%2520of%2520Undeath%253Bin%253DBlasphemous%2520Edict

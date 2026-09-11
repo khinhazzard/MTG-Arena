@@ -1,0 +1,241 @@
+Color: BGU
+
+Commander: Sin, Spira's Punishment	R, FL, TK
+
+(Themes)
+
+Main: MilL, LaND, LandFall, ToKen, GraveYard, CYCling
+LND: 18
+LF: 6
+ML: 4
+TK: 6
+
+Sub:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Lands:
+Shifting Woodland (G)
+Deathcap Glade (BG)
+Drowned Catacomb (BU)
+
+~~sub replaced
+Field of the Dead (<>)			S
+Woodland Cemetery (BG)
+Overgrown Tomb (BG)
+Hinterland Harbor (GU)
+Dreamroot Cascade (GU)
+Breeding Pool (GU)
+Polluted Delta (BU)
+Shipwreck Marsh (BU)
+Sunken Hollow (BU)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Current Mana Curve: Creature(Non-creature Permanent)(Spells)
+				    Grand Total	
+1 5(2)(2)				9 + 1 LAND
+2 1(4)(9)				14		
+3 7(3)(4)				14	
+4 3(3)(3)				9	
+5 7(2)(1)				9	
+6-9 6(1)(1)+ Commander			8						
+
+Mana Curve: Creature(Non-Creature Permanent)(Spells)
+1 5(2)(2)				9			
+2 1(4)(9)				14		
+3 7(3)(4)				14		
+4 4(3)(2)				9		
+5 7(2)(1)				10		
+6-9 6(1)(1)	+ Commander		9		
+	
+		
+Total Creatures Goal:			30 + Commander
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lands: 8 Basic Lands + 14 Tapped (21 Limit) + 1 Land Alternatives
+
+Command Tower (BGU)
+Fabled Passage (BGU)			TP
+Zagoth Triome (BGU)			TP
+Hedge Maze (GU)				TP
+Misty Rainforest (GU)
+Undercity Sewers (BU)			TP
+Underground Mortuary (BG)		TP
+Verdant Catacombs (BG)
+Urborg Tomb of Yawgmoth (B)
+Otawara, Soaring City(U)		REMOVAL
+Boseiju, Who Endures(G)			REMOVAL
+Watery Grave (BU)
+
+~~sub replacement
+Llanowar Wastes (BG)
+Yavimaya Coast (GU)	
+Cavern of Souls(<>)			
+Revitalizing Repast (BG)		TP, LAND
+Restless Vinestalk (GU)			TP
+Balamb Garden Seed Academy (GU)		TP
+Darkslick Shores(BU)			TP
+Dismal Backwater (BU)			TP
+Soured Springs (BU)			TP
+
+
+TBD:
+Bojuka Bog (B)				TP
+Restless Cottage (BG)			TP
+
+~~~~~~~~~~~~~~~~~~~~~~
+Protection:
+
+Swiftfoot Boots
+Feign Death				CR
+
+TBD:
+An offer you can't refuse
+
+~~~~~~~~~~~~~~~~~~~~~~
+Combat Tricks:
+
+
+~~~~~~~~~~~~~~~~~~~~~~
+7 Board Wipes
+
+Blasphemous Edict
+Toxic Deluge
+Culling Ritual
+Massacre Wurm
+Whelming Wave
+Damnation
+Blood Money
+
+TBD:
+
+
+~~~~~~~~~~~~~~~~~~~~~~
+7 Removal Spells
+~~ Hard Removals ~~
+Abrupt Decay
+Assassin's Trophy
+Rapid Hybridization
+Summon: Bahamut				FL
+
+~~ Soft Removals ~~
+Negate
+Reclamation Sage
+Vile Mutilator				FL
+Decisive Denial
+Cloud of Darkness			FL, GV
+Nature's Claim
+Maelstorm Pulse
+
+TBD:
+Counterspell
+Airship Crash
+Plaguecrafter
+Fell the Profane			LAND
+Sultai Charm
+~~~~~~~~~~~~~~~~~~~~~~
+6-7 Draw
+
+Glarb Calamity's Augur			
+Ripples of Undeath			ML
+Tatyova Benthic Druid			LF, LG
+Spelunking				LND, LG
+Resentful Revelation
+Blitzball
+The Gitrog Ravenous Ride
+The Gitrog Monster			LND
+
+TBD:
+Fang Fearless l'Cie
+Thirst for Discovery 
+Treasure Cruise
+~~~~~~~~~~~~~~~~~~~~~~
+Recursion:
+
+Timeless Witness
+Conduit of Worlds
+Quest for Necropolis
+
+~~~~~~~~~~~~~~~~~~~~~~
+Tutors:
+
+~~~~~~~~~~~~~~~~~~~~~~
+21 Ramp
+Summon: Titan				ML, 
+Nissa, Resurgent Animist		LF
+Overlord of the Hauntwoods		TK
+Traveling Chocobo			LND
+Harrow
+Cultivate
+Farseek
+Arcane Signet
+Utopia Sprawl
+(2)Lotus Cobra				LF
+Elvish Mystic
+Esper Origins				SV, LG, FB
+Grasping Shadows			LG, CAVE
+Grisly Salvage				LND, GV
+Lumra Bellow of the Woods		ML, LND
+Tireless Provisioner			LF, TK
+Springbloom Druid			LND
+Molt Tender				ML
+
+TBD:
+Cunning Azurescale			LND
+Citanul Stalwart	
+Grapple with the Past			ML
+Rampant Growth		
+Planar Genesis
+(4)Solemn Simulacrum			LND
+World Map
+~~~~~~~~~~~~~~~~~~~~~~
+18 Synergies
+Rampaging Baloths			LF, TK
+Doubling Season 			TK, CR
+Insidious Roots				TK, S
+Iridescent Vinelasher			LF
+Stitcher's Supplier			ML
+Retreat to Kazandu			LF, CR
+Kheru Goldkeeper			FL, CR, GY
+Billowing Shriekmass			FL, ML
+Hedge Shredder				ML, LND
+Syr Konrad the Grim			ML, GV
+Primeval Bounty				LF, S, CR, LG
+Shinra Reinforcements			LG
+Troll of Khazad				CY
+
+TBD:
+Vanille Cheerful l'Cie			ML
+Ruin Crab				LF, ML
+Gnawing Vermin				ML
+Patchwork Beastie			ML
+Rottenmouth Viper
+Diamond Weapon				GV
+Ice Flan				CY
+Helm of the Host			TK
+World Shaper				ML, LND
+Mossborn Hydra				LF, CR
+Sazh's Chocobo				LF, CR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Deck Reference: Currently Being Used
+Creatures 30 (30 + Commander)
+Instants 9
+Sorceries 9
+Artifacts 6
+Enchantments 9
+Planeswalkers 1
+Lands 35
+https://edhrec.com/deckpreview/NDkox8M9fUS3HDLrsQb3Ag
+
+Mana Curve: Creature(Non-Creature Permanent)(Spells)
+1 5(2)(2)				9			
+2 1(4)(8)				13		
+3 7(3)(4)				14		
+4 4(3)(2)				9		
+5 7(2)(1)				10		
+6-9 6(1)(1)	+ Commander		9		
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mega Source:
+https://edhrec.com/decks/sin-spiras-punishment?f=in%253DSummon%253A%2520Titan%253Bin%253DGlarb%252C%2520Calamity%27s%2520Augur%253Bin%253DRipples%2520of%2520Undeath%253Bin%253DBlasphemous%2520Edict

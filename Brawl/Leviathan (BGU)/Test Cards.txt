@@ -1,0 +1,58 @@
+Life Gain:
+(4)Whip of Erebos
+(2)Scavenging Ooze
+(6)Titania's Command
+(3)Rune Sealed Wall
+
+Draw:
+(2)Mosswood Dreadknight
+(4)Plan the Heist
+
+Combat Trick:
+(1)Spontaneous Mutation
+
+Tutor:
+
+Flash for ALL SPELLS:
+Valley Floodcaller
+
+~~~~~~~~~~~~
+Combos:
+Mill Enemy Graveyard:
+(1)Ruin Crab:
+(3)Quistis Trepe
+(5)Consuming Aberration
+(5)Froghemoth
+Bojuka Bog (B) Exile enemy graveyard
+(6)Lochmere Serpent Exile enemy graveyard
+
+
+~~~~~~~~~~~~
+Tokens with CounterSpell + Removal + then Clear:
+(1)Strix Serenade
+(1)Swan Song
+(1)An Offer You Can't Refuse
+(1+)Phantom Interference
+(1+)Three Steps Ahead
+(3)Flip the Switch
+(3)Hornswogle
+(3)Syphon Essence
+(5)Spell Swindle
+(6)Sublime Epiphany
+(4)Rite of Renewal
++
+(1)Rapid Hybridization
+(1)Into the Flood Maw
++
+(4)Culling Ritual
+~~~~~~~~~~~~
+Cannot be Attacked except: Creatures with Flying and Islandwalk
+Sandwurm Convergence
+Stormtide Leviathan
+Meandering Towershell
+Wonder
+
+~~~~~~~~~~~~
+Unli Whelming Wave:
+- Timeless Witness
+- Archaeomancer

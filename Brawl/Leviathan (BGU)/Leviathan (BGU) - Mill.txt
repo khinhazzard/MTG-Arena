@@ -1,0 +1,354 @@
+Color: BGU
+
+Commander: Sin, Spira's Punishment	R, FL, TK, AV
+
+(Themes)
+
+Main: MilL, LandFall, LaND,  GraveYard, ToKen
+LND: 18
+ML: 15
+LF: 11
+TK: 10
+
+
+
+Sub: CounteR, SurVeil, DisCard, CYcling, FlashBack
+CR:
+SV:
+DC:
+
+Types: AVatar, KRaken, LeViathan, OCtopus, SerPent, MerFolk
+
+Combos:
+Mill Enemy Graveyard:
+(1)Ruin Crab:
+(3)Quistis Trepe			Considered as (4) or (5)
+(5)Consuming Aberration
+(5)Froghemoth
+(4)Bond of Insight
+(7)Breach the Multiverse
+(5)Lord of Extinction
+(2)Drown in the Loch
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Lands:
+
+Deathcap Glade (BG)
+Drowned Catacomb (BU)
+
+~~sub replaced
+Shipwreck Marsh (BU)
+Sunken Hollow (BU)
+Watery Grave (BU)
+Polluted Delta (BU)
+Field of the Dead (<>)			S
+Woodland Cemetery (BG)
+Verdant Catacombs (BG)
+Overgrown Tomb (BG)
+Hinterland Harbor (GU)
+Dreamroot Cascade (GU)
+Breeding Pool (GU)
+Shifting Woodland (G)			GV
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Current Mana Curve: Creature(Non-creature Permanent)(Spells)
+				    Grand Total	
+0 0(0)(0)				0
+1 5(2)(2)				9 + LAND(INSTANT)				
+2 1(4)(8) 				13 + LAND(INSTANT)		
+3 7(3)(4)				14 	
+4 4(3)(2)				9
+5 6(2)(1)				9 + LAND(CREATURE)
+6-9 6(1)(1)				8 + Commander				
+
+Mana Curve: Creature(Non-Creature Permanent)(Spells)
+0 0(1)(0)				1
+1 5(2)(2)				9			
+2 1(4)(8)				13		
+3 7(3)(4)				14		
+4 4(3)(2)				9		
+5 6(2)(1)				9		
+6-9 6(1)(0)				7 + Commander		
+	
+		
+Total Creatures Goal:			29 + Commander
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+37 Lands: 8 Basic Lands + (Tapped) +  3 LAND Alternatives (21 Limit for Tapped) 
+
+Command Tower (BGU)
+Fabled Passage (BGU)			TP
+Zagoth Triome (BGU)			TP
+Hedge Maze (GU)				TP
+Misty Rainforest (GU)
+Undercity Sewers (BU)			TP
+Underground Mortuary (BG)		TP
+Urborg Tomb of Yawgmoth (B)
+Cephalid Coliseum (U)
+Jwari Disruption (U)			LAND, Instant, TP
+Disciple of Freyalise			LAND, CREATURE, LG
+Midgar City of Mako (B)			TP
+
+
+~~sub replacement
+Darkslick Shores(BU)			TP
+Dismal Backwater (BU)			TP
+Contaminated Aquifier(BU)		TP
+Waterfront District (BU)		TP
+Eden Seat of Sanctum(<>)		ML
+Llanowar Wastes (BG)
+Revitalizing Repast (BG)		TP, LAND, Instant
+Blooming Marsh (BG)			TP
+Yavimaya Coast (GU)	
+Restless Vinestalk (GU)			TP
+Tanglet Islet (GU)			TP
+Kishla Village (G)			SV, TP
+
+
+TBD:
+Hidden Cataract (U)			CAVE, TP
+Pit of Offerings (<>)			CAVE, TP
+Secluded Courtyard (<>)
+Echoing Deeps (<>)			CAVE, TP
+Soured Springs (BU)			TP
+The Dross Pits(B)			TP
+Restless Cottage(BG)			TP
+Slink into Stupor (U)			LAND, Instant
+Hydroelectric Specimen (U)		LAND, CREATURE	
+Bojuka Bog (B)				TP
+Captivating Cave (<>)			CAVE, CR
+The Hunter Maze(G)			TP
+Cavern of Souls (<>)			CAVE
+~~~~~~~~~~~~~~~~~~~~~~
+7 Board Wipes
+
+Blasphemous Edict
+Toxic Deluge
+Culling Ritual
+Massacre Wurm
+
+TBD:
+Slinn Voda the Rising Deep		LV
+~~~~~~~~~~~~~~~~~~~~~~
+3 Removal Spells
+~~ Hard Removals ~~
+Assassin's Trophy
+Summon: Bahamut				FL
+
+~~ Soft Removals ~~
+Abrupt Decay
+
+
+TBD:
+Cloud of Darkness			FL, GV
+Plaguecrafter
+Vile Mutilator				FL
+Airship Crash				CY
+Reclamation Sage
+Tear Asunder
+Rapid Hybridization
+Sleep Magic
+(1)Nature's Claim
+~~~~~~~~~~~~~~~~~~~~~~
+3 Protection:
+An offer you can't refuse
+Drown in the Loch
+Swallowed by Leviathan			SV
+Sylvan Safekeeper
+
+TBD:
+Spellgyre				SV
+Confounding Riddle			GV
+Louisoix's Sacrifice
+Counterspell
+Planar Incision				CR, UNTAPPER
+Swiftfoot Boots
+Decisive Denial
+Essence Flux				UNTAPPER
+Blur
+Negate
+~~~~~~~~~~~~~~~~~~~~~~
+Combat Tricks:
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~
+6 Draw
+
+Glarb Calamity's Augur			SV
+Ripples of Undeath			ML
+Tatyova Benthic Druid			LF, LG
+Spelunking				LND, LG
+The Gitrog Monster
+Resentful Revelation			GV, FB
+Jace, the Perfected Mind		ML
+The Lunar Whale				FL
+Overlord of the Floodpits		FL, DC
+(3)Palantir of Orthanc			ML
+
+TBD:
+The Gitrog Ravenous Ride
+Fang Fearless l'Cie
+Mulldrifter				FL
+Sibsig Appraiser
+Grasping Shadows			LG, CAVE
+Mosswood Dreadknight			GV
+Dreams of Laguna			SV
+Treasure Cruise
+Oblivious Bookworm			DC
+Kishla Skimmer				FL, GV
+Memories Returning			FB
+Waker of Waves				DC
+(3)Blitzball
+~~~~~~~~~~~~~~~~~~~~~~
+9 Recursion:
+
+Timeless Witness			GV
+Breach of the Multiverse		ML
+(4)Rite of Renewal		(Shuffle counterspells / clean unwanted permanents in GV)
+
+TBD:
+Quest for the Necropolis		LF
+Conduit of Worlds
+Quistis Trepe				GV
+Inspiration from beyond			ML
+Bond of Insight				ML
+(2)Auroral Procession
+~~~~~~~~~~~~~~~~~~~~~~
+Tutors:
+
+
+~~~~~~~~~~~~~~~~~~~~~~
+21 Ramp
+Summon: Titan				ML, 
+Nissa, Resurgent Animist		LF
+Overlord of the Hauntwoods	 	TK, AV
+Traveling Chocobo			LND, (LANDFALL AMPLIFIER)
+Cultivate
+Arcane Signet
+Esper Origins				SV, LG, FB
+Springbloom Druid			LND
+Entish Restoration			LND
+Farseek
+Lumra Bellow of the Woods		ML, LND
+Tireless Provisioner			LF, TK
+Molt Tender				ML
+Cache Grab				ML
+Kheru Goldkeeper			FL, CR, GY
+Harrow
+Wayfarer's Bauble			LND
+(2)Lotus Cobra				LF
+(2)Rampant Growth			LND
+Analyze the Pollen			LND, TUTOR
+Insidious Roots				TK, S
+
+TBD:
+Cunning Azurescale			LND		
+Skull Prophet				ML
+Enter the Unknown			LND	
+Grapple with the Past			ML
+Bonny Pall, Clearcutter			TK, GV, LND
+Relm's Sketching			TK
+Embodiment of Spring			LND
+Utopia Sprawl
+Ignis Scientia				LND, GV
+Elvish Mystic
+Bushwhack				LND
+World Map				LND
+Planar Genesis				LND
+(4)Deepfathom Echo			LND
+Thornvault Forager
+(4)Invasion of Zendikar			LND
+Grisly Salvage				LND, GV
+Kami of Bamboo Groves			LND
+Nyxbloom Ancient
+Druid Class				LND
+~~~~~~~~~~~~~~~~~~~~~~
+18 Synergies
+Rampaging Baloths			LF, TK
+Doubling Season 			TK, CR
+Retreat to Kazandu			LF, CR
+World Shaper				ML, LND
+Primeval Bounty				LF, S, CR, LG
+Relm's Sketching			TK
+Helm of the Host			TK
+Grappling Kraken			LF, TP
+Ruin Crab				LF, ML
+Consuming Abberation			ML
+Stitcher's Supplier			ML
+Elixir					LG
+Stillness in Motion			ML
+Titania Voice of Gaea			LG
+Lilysplash Mentor			CR, UNTAPPER
+Iridescent Vinelasher			LF
+(4)Hedge Shredder			ML, LND
+(3)Kiora the Rising Tide		DC, TK
+(4)Teval the Balanced Scal		ML, FL, TK
+
+
+
+TBD:
+Vanille Cheerful l'Cie			ML
+Billowing Shriekmass			FL, ML
+Troll of Khazad				CYC
+Ice Flan				CYC
+Waterlogged Hulk			ML
+Skyskipper Duo				FL, UNTAPPER
+Adventuring Gear			LF
+Skyclave Pick-Axe			LF
+Gnawing Vermin				ML
+Froghemoth				LG, CR
+Diamond Weapon				GV
+Bramble Wurm				LG
+Sazh's Chocobo				LF, CR
+Laboratory Maniac			Self Mill
+Y'shtola Rhul				UNTAPPER
+Syr Konrad the Grim			ML, GV
+Nethergoyf				GV
+Mossborn Hydra				LF, CR
+Fraying Sanity				ML
+(1)Harrier Strix			FL, DC
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Deck Reference: Currently Being Used
+Creatures 30 (29 + Commander)
+Instants 9
+Sorceries 8
+Artifacts 6
+Enchantments 9
+Planeswalkers 1
+Lands 37
+https://edhrec.com/deckpreview/NDkox8M9fUS3HDLrsQb3Ag
+
+Mana Curve: Creature(Non-Creature Permanent)(Spells)
+0 0(1)(0)				1
+1 5(2)(2)				9			
+2 1(4)(8)				13		
+3 7(3)(4)				14		
+4 4(3)(2)				9		
+5 6(2)(1)				9		
+6-9 6(1)(0)				7 + Commander			
+
+~~~~~~~~~~~~~~~~~~~~~~
+Deck Reference: Lands Matter, Mills
+Creatures 33 (33 + Commander)
+Instants 8
+Sorceries 7
+Artifacts 7
+Enchantments 5
+Planeswalkers 0
+Lands 39
+https://edhrec.com/deckpreview/6vuUNfSalm6PD8FMidRiLg 
+
+Mana Curve: Creature(Non-Creature Permanent)(Spells)
+1 0(0)(0)						
+2 0(0)(0)						
+3 0(0)(0)						
+4 0(0)(0)						
+5 0(0)(0)						
+6-9 0(0)(0)	+ Commander				
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mega Source:
+https://edhrec.com/decks/sin-spiras-punishment?f=in%253DSummon%253A%2520Titan%253Bin%253DGlarb%252C%2520Calamity%27s%2520Augur%253Bin%253DRipples%2520of%2520Undeath%253Bin%253DBlasphemous%2520Edict

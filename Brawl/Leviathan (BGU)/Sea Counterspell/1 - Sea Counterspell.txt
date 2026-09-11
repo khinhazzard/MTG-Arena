@@ -1,0 +1,200 @@
+
+Commander(X) Sin, Spira's Punishment
+~~~~~~~~~~~~~~~~~~~~
+🌊 Theme 1: Sea Monsters (Main Theme) - 22
+(2) Caelorna, Coral Tyrant
+(2) Ominous Seas
+(3) Nadir Kraken
+(3) Acquisition Octopus
+(3) Sea-Dasher Octopus
+(3) Runo Stromkirk
+(4) Charix, the Raging Isle
+(4) Kiora, the Crashing Wave
+(5) Mesmerizing Benthid
+(5) The Watcher in the Water
+(5) Wormhole Serpent
+(5) Psychic Pickpocket
+(6) Tidal Terror
+(6) Summon: Leviathan
+(6) Lochmere Serpent	
+(6) Xolatoyac, the Smiling Flood
+(7) Koma, Cosmos Serpent
+(7) Hullbreaker Horror
+(7) Junk Winder
+(7) Kiora Bests the Sea God
+(8) Stormtide Leviathan
+(8 or 10) Slinn Voda, the Rising Deep
+
+~~~~~~~~~~~~~~~~~~~~
+🛑 Theme 2: Counterspells (Secondary Theme) - 9
+(0) Pact of Negation
+(1) Swan Song
+(1) Stubborn Denial
+(2) Essence Scatter
+(2) Counterspell
+(3+) Three Steps Ahead 
+(3) Supreme Will
+(3) Flare of Denial
+(5) Spell Swindle
+
+~~~~~~~~~~~~~~~~~~~~
+🪦 Theme 3: Self-Mill + Looting (Support Engine) - 8
+(1) Entomb
+(1) Consider
+
+(2 or 7) Waker of Waves
+(3) Frantic Search
+(3) Kiora, the Rising Tide
+(5) Psychic Pickpocket
+(8) Dig Through Time
+	
+~~~~~~~~~~~~~~~~~~~~
+⚡ Ramp & Mana Fixing - 13
+(1) Crop Rotation
+(2) Growth Spiral
+(2) Planar Genesis
+(3) Nissa's Pilgrimage
+(3) Kiora, Behemoth Beckoner 
+(3) Entish Restoration
+(3) Harrow
+(3) Cultivate
+(3) Kozilek's Unsealing
+(3) Chromatic Lantern
+(4) Migration Path
+(4) The Water Crystal
+(9) The Great Henge
+
+~~~~~~~~~~~~~~~~~~~~
+🎯 Spot Removal (Single Targets)
+
+(3) Awaken the Honored Dead	- (also a Theme 3)
+(3) Beast Within
+
+~~~~~~~~~~~~~~~~~~~~
+💥 Board Wipes (Mass Removal)
+(4) Culling Ritual
+(4) Damnation
+(4) Whelming Wave
+(2 or 8) Cyclonic Rift
+
+~~~~~~~~~~~~~~~~~~~~
+🛑 Utility
+(3) Rhystic Study		- (Feeds Theme 3)
+(5) Tatyova, Benthic Druid	- LG
+(7) Glint Weaver 		- Lifegain, Anti Air, NOTE: Gives atk counter to Caleorna and Charix, Big Heal when used on Charix or Famished
+(4) Monstrous Vortex		- Sea Monster Payoff	
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Get / Test: (By Priority Order)
+(6) Shipbreaker Kraken
+(5) The Unagi of Kyoshi Island
+(4) Reservoir Kraken
+(2) Collective Brutality
+(6) Serpent of Yawning Depths
+(12) Icebreaker Kraken
+
+(7) Koma, World Eater
+(3) Soul Shatter 
+(5) Gilded Lotus		
+(4) Consuming Tide		
+(4) Shark Shredder
+(6) Flood of Tears
+(2) Sapphire Medallion
+(2) Dredger's Insight
+
+(5) Archival Whorl
+(2 or 4) Tear Asunder
+
+Counterspells TBD:
+(3) Force of Negation
+(2) Tale's End
+(3) Tishana's Tidebringer
+(2) Memory Lapse
+(2) Narset's Reversal
+(1) Flusterstorm
+(4) Rewind	
+(X2) Thassa's Intervention
+(1) Spell Pierce
+
+(3) Tome of the Infinite		
+(4) Cryptic Command
+(4) Summary Dismissal
+(4) Overcharged Amalgam			
+(3) Archmage's Charm
+(1) Stifle
+(3) Ertai's Scorn
+(4) Spellgyre
+(3) Sinister Sabotage	
+(2) Defabricate
+(1) Strix Serenade
+		
+(1) An Offer You Can't Refuse	
+(1) Louisoix's Sacrifice
+(1) Stern Scolding
+
+(3) Refute
+
+
+Action plan: 
+replace Starwinder -> Glint Weaver
+replace Psychic Pickpocket -> Unagi of Kyoshi Island
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sea Creatures: 
+https://edhrec.com/deckpreview/r0MNtM5q1KNWm79UkKlKPA
+
+Replace Land: Yavimaya Coast -> Breeding Pool
+
+Lands:
+Yavimaya, Cradle of Growth
+Lotus Field
+Rogue's Passage
+Urgent: a blue green land that comes untapped by paying life
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Deck Card History:
+(8) Famished Worldsire		- Sea Creature
+(7) Starwinder			- Theme 1 + Draw
+(5) Iceridge Serpent		- Theme 1
+
+
+(2) Strategic Planning		- Theme 3
+(3) Necromancy			→ needs setup to work
+(2) Chart a Course		→ replaced by Consider
+(1) Otherworldly Gaze		- Theme 3
+(1) Cling to Dust		→ replaced by Tend the Pests
+(4) Rain of Revelation		→ replaced by Runo Stromkirk
+(2) Tainted Indulgence		- Theme 3
+(3) Thirst for Discovery	- Theme 3
+(3) Nyx Weaver			- Theme 3
+(1) Analyze the Pollen		- Theme 3 / RAMP
+
+
+(4) Hedron Archive		- RAMP / DRAW
+(2) Into the North		- RAMP
+(2) Satyr Wayfinder		- RAMP
+(3) Tireless Provisioner 	- RAMP
+(2) Rampant Growth		- RAMP
+(2) Farseek			- RAMP
+(2) Arcane Signet		- RAMP
+
+(4) Aetherize			- Board Wipe
+(3) Filter Out			- Board Wipe
+(8) Sandwurm Convergence 	- Board lockdown → Replaced with (6) Tidal Terror
+
+
+(1) Cut Down			- Removal
+(1) Fatal Push			- Removal
+(2) Sheoldred's Edict		- Removal
+(2 or 4) Tear Asunder		- Removal
+	
+(2) Assassin's Trophy		- replaced by (2) Bitter Triumph
+(2) Bitter Triumph		- Removal + also a Theme 3
+(3) Decisive Denial		- Counterspell / Removal
+
+(1) Haywire Mite		- Removal, Lifegain
+(1) Tamiyo's Safekeeping 	- Protection, Lifegain
+(2) Lightning Greaves		- Protection
+(3) Retreat to Kazandu		- Lifegain, Landfall Counter
+
+(5) Syr Elenora, the Discerning	- Blocker / Defender → Replaced with (7) Junk Winder
+(2) Tend the Pests		- Theme 3

@@ -1,0 +1,380 @@
+Color: BGU
+
+Commander: Sin, Spira's Punishment	R, FL, TK, AV
+
+(Themes)
+
+Main: ToKen, LandFall, GraveYard, DisCard, LaNDramp
+TK: 15
+DC: 8
+LF: 6
+
+Sub: MilL, CounteR, SurVeil, CYcling, Enter the Battlefield effects
+ML: 4
+SV: 5
+CR:
+ETB:
+
+Types: SEA creatuers(KRaken, LeViathan, OCtopus, SerPent)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+39 Lands: 16 Basic Lands + 23 Non-Basic Lands + (7 Limit for Tapped) 
+
+Lands Goals:
+Polluted Delta(UB)			
+Underground Sea(UB)			NOT LEGAL
+Watery Grave(UB)			TP
+
+Bayou(BG)				NOT LEGAL
+Overgrown Tomb(BG)			TP
+Verdant Catacombs(BG)
+
+Misty Rainforest(GU)
+Breeding Pool(GU)			TP
+Tropical Island(GU)			NOT LEGAL
+
+Zagoth Triome(BGU)			TP
+Command Tower(BGU)	
+Fabled Passage(BGU)			TP
+Prismatic Vista(BGU)
+
+Yavimaya Cradle of Growth(G)
+Urborg Tomb of Yawgmoth(B)
+Bokuga Bog(B)				TP
+
+Command Beacon(<>)
+Alchemist Refuge (<>)
+Ancient Tomb (<><>)		
+Field of the Dead(<>)			TP
+Reliquary Tower(<>)
+
+Land Alternatives:
+Boseiju, Who Endures(G)
+Otawara, Soaring City(U)
+~~~~~~~~~~~~~~~~~~~~~~
+40 Lands: 16 Basic Lands + 23 Non-Basic Lands (7 Limit for Tapped) 
+
+Basic Lands:
+6 Islands
+3 Swamps
+7 Forests
+
+NonBasic Lands:
+Watery Grave(UB)			TP
+Undercity Sewers(UB)			TP, SV
+Waterlogged Teachings(UB)		Tutor for Spells or Flash, Land Alternative
+
+Llanowar Wastes(BG)
+Underground Mortuary(BG)		TP, SV
+Verdant Catacombs(BG)
+
+Hedge Maze(GU)				TP, SV
+Yavimaya Coast(GU)
+Misty Rainforest(GU)		
+
+Zagoth Triome(BGU)			TP
+Command Tower(BGU)	
+Fabled Passage(BGU)			TP
+Prismatic Vista(BGU)
+
+Emergence Zone(<>)			SPELLS GO FLASH
+Cavern of Souls(<>)			CAN'T BE COUNTERED
+Westvale Abbey(<>)			FL, LIFELINK, TK
+Command Beacon(<>)			RETURN COMMANDER TO HAND
+Bokuga Bog(B)				TP
+
+Kishla Village(G)			TP, SV
+Urborg, Tomb of Yawgmoth(B)
+Mystic Sanctuary(U)			TP, SPELL RECURSION
+(2)Boseiju, Who Endures(G)		Removal, DC
+(4)Otawara, Soaring City(U)		Removal, DC
+
+
+TBD:
+Cephalid Coliseum(U)			DC
+Foreboding Landscape(<>)		TP, DRAW
+Midgar City of Mako(B)			TP, DRAW
+(1)Lonely Sandbar(U)			TP, Draw
+Waterfront District(UB)			TP, DRAW
+Blooming Marsh(BG)			TP
+Foreboding Landscape(<>)		TP, DRAW
+(2)Jwari Disruption (U)			TP, COUNTERSPELL
+(6)Disciple of Freyalise(G)		TP, LG, Draw
+Reliquary Tower(<>)			NO MAXIMUM HAND SIZE
+Revitalizing Repast			TP, Protection, Land Alternative
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Current Mana Curve: Creature(Non-creature Permanent)(Spells)
+				    Grand Total +
+0 0(0)(0)				0 + Bokuga Bog
+1 3(0)(3)				6 + Mire Triton
+2 1(2)(7) 				10 
+3 7(4)(4)				15 + Three Steps Ahead, Louisoix
+4 5(1)(3)				9 
+5 3(2)(0)				5 
+6-9 8(2)(0)				11 + Commander	 
+
+Mana Curve: Creature(Non-Creature Permanent)(Spells)
+0 0(1)(0)				1 or Land
+1 4(3)(1)				8 			
+2 1(2)(7)				10 	
+3 6(1)(9)				16		
+4 5(1)(3)				9		
+5 3(2)(0)				5		
+6-9 8(3)(0)				11 + Commander			
+		
+Total Creatures Goal:			28 (27 + Commander)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1 Board Wipes
+
+(4)Whelming Wave
+(3)Toxic Deluge
+(3)Culling Ritual
+(4)Damnation
+(8)Slinn Voda, the Rising Deep		LV
+
+TBD:
+(5)Blasphemous Edict
+(6)Massacre Wurm
+
+
+~~~~~~~~~~~~~~~~~~~~~~
+4 Removal Spells
+~~ Hard Removals ~~
+(9)Summon: Bahamut			FL
+(2)Assassin's Trophy
+(3)Maelstrom Pulse
+
+~~ Soft Removals ~~
+(3)Amphibian Downpour
+(1)Haywire Mite				LG
+
+TBD:
+(7)Vile Mutilator			FL
+(1)Spontaneous Mutation			GV
+(1)Nature's Claim
+(1)Rapid Hybridization			TK
+(3)Sultai Charm				DC
+(2)Tear Asunder
+(2)Abrupt Decay
+(1)Dead Weight
+
+~~~~~~~~~~~~~~~~~~~~~~
+3 Protection / Combat Tricks:
+
+(1)Sylvan Safekeeper
+(2)Heroic Intervention
+(1)Tamiyo's Safekeeping			LG
+
+TBD:
+
+~~~~~~~~~~~~~~~~~~~~~~
+Counterspells:
+(1)An Offer You Can't Refuse		TK
+(1)Swan Song				TK
+(1)Strix Serenade			TK
+(2)Counterspell
+(2)Mana Drain
+(3)Three Steps Ahead			TK, DC
+(3)Louisoix's Sacrifice
+
+TBD:
+(3)Flip the Switch			TK
+(3)Swallowed by Leviathan		SV
+(3)Refute
+(2)Switftfoot Boots			DC
+(2)Negate
+(2)Trailblazer's Boots
+(1)Spell Pierce
+(1)Spectral Denial
+(2)Phantom Interference			TK, FL
+~~~~~~~~~~~~~~~~~~~~~~
+8 Draw
+
+(2)Palantir of Orthanc			ML
+(3)Acquisition Octopus			SEA
+(3)Crippling Chill			TP
+(3)Cloudkin Seer			FL, ETB
+(5)Tatyova Benthic Druid		LF
+(5)Overlord of the Floodpits		FL, DC, ETB
+(9)The Great Henge			CR, LG
+(6)Bonny Pall, Clearcutter		LND, RC, GV, TK
+
+
+TBD:
+(3)Fang Fearless			GV
+(3)Redrock Sentinel			LND
+(5)The Gitrog Monster			LND
+(6)Cunning Azurescale			FL, LND
+(1)Brainstorm
+(3)Thirst for Meaning			LND, DC
+(3)Thirst for Discovery			LND, DC
+(4)The Lunar Whale			FL, Scout (casts from library)
+(4)Invasion of Vryn			DC, ETB
+(3)Glarb, Calamity's Augur		SV, DT, Scout (casts from library)
+(3)Kiora, Behemoth Beckoner		UNTAPPER
+(6)Marang River Regent			FL, DC	
+~~~~~~~~~~~~~~~~~~~~~~
+10 Recursion:
+
+(4)Timeless Witness
+(4)Rite of Renewal	     (Return spells to library/ clean unwanted permanents in GV)
+(3)Nyx Weaver				RC
+(4)Archaeomancer
+
+TBD:
+(3)Giant Regrowth
+(3)Kishla Trawlers
+(1)Quest for Necropolis			LF
+~~~~~~~~~~~~~~~~~~~~~~
+Tutors:
+
+~~~~~~~~~~~~~~~~~~~~~~
+14 Ramp
+
+(1)Birds of Paradise			FL
+(2)Farseek				LND
+(2)Arcane Signet
+(2)Into the North
+(2)Growth Spiral			LND
+(2)Lotus Cobra				LF
+(3)Chromatic Lantern
+(3)Kozilek's Unsealing			TK, DRAW		
+(3)Tireless Provisioner			LF
+(3)Cultivate				LND
+(3)Harrow				LND
+(3)Nissa, Resurgent Animist		LF
+(4)Hedron Archive			DRAW
+(7)Nyxbloom Ancient			Mana
+
+TBD:
+(4)Smuggler's Surprise			ML, LND
+(2)Ripples of Undeath			ML
+(2)Glimpse the Core
+(3)Roiling Regrowth			LND
+(3)Smuggler's Surprise			ML, LND
+(2)Esper Origins			SV, LG
+(3)Dance if the Tumbleweeds		LND, TK
+(1)Arboreal Grazer			LND, RC
+(1)Dark Ritual
+(3)Traveling Chocobo			LND, (LANDFALL AMPLIFIER), SCOUT
+(2)Rampant Growth			LND	
+(2)Planar Genesis			LND
+(2)Aftermath Analyst			ML, LND
+(3)Entish Restoration			LND
+(1)Utopia Sprawl			LND
+(4)Kheru Goldkeeper			FL, GV, TK
+(2)Paradise Druid
+(1)Wayfarer's Bauble			LND
+(1)Molt Tender				ML, GV
+(3)Springbloom Druid			LND
+(6)Lumra, Bellow of the Woods		LND, ML, RC
+(4)Solemn Simulacrum			LND
+(1)Analyze the Pollen			LND, Tutor for Creature or Land
+(3)Joint the Exploration		LND 
+~~~~~~~~~~~~~~~~~~~~~~
+18 Synergies
+(2)Mire Triton				ML, LG, DT
+(2)Ominous Seas				TK
+(3)Gogo Master of Mimicry
+(4)Teval, the Balanced Scale		LND, FL, TK
+(4)Charix the Raging Isle		SEA
+(5)Doubling Season			TK
+(5)Virtue of Knowledge			ETB
+(5)Yarok the Desecrated			ETB, LG, DT
+(6)Spinewoods Armadillo			RC, LG
+(7)Glint Weaver				CR, ETB, LG
+(7)Koma, Cosmos Serpent			TK
+(8)Sandwurm Convergence			TK
+(8)Stormtide Leviathan			LV
+(4)Wonder				FL
+(4)Skysimmer Koi			FL, DC
+
+TBD:
+(3)Crawling Sensation			ML, TK
+(4)Lilysplash Mentor			RC, BLINKER
+(3)Shinra Reinforcements		ML, LG
+(1)Stitcher's Supplier			ML
+(2)Stillness in Motion			ML
+(2)Druid Class				LF, LG, LND
+(1)Iridescent Vinelasher		LF
+(1)Sazh's Chocobo			LF, CR
+(5)Meandering Towershell
+(3)Titania Voice of Gaea		LG, RC
+(3)Mossborn Hydra			LF
+(2)Compulsion				DC
+(6)Grappling Kraken			LF, SEA
+(6)Rampaging Baloths			LF, TK
+(7)Waker of Waves			DC
+(5)Chocobo Racetrack			LF, TK
+(3)Unstoppable Plan			UNTAPPER
+(1)Elixir				LG, GV
+(6)Primeval Bounty			LF, LG, TK, CR	
+(6)Y'shtola Rhul			ETB		
+(5)Underrealm Lich			GV, (filters draw)
+(2)Caelorna Coral Tyrant		OC
+(3)Bounding Krasis			ETB, UNTAPPER, FLASH
+(6)Crabomination			ETB
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Combos:
+Cannot be Attacked except: Creatures with Flying and Islandwalk
+(8)Sandwurm Convergence
+(8)Stormtide Leviathan
+(4)Wonder (gives flying to my creatures if this card put to graveyard)
+
+(5)Meandering Towershell(optional card that has island walk)
+
+
+Board Wipe Combos:
+Culling Ritual + tokens on field = Big mana Ramp
+Damnation + Heroic Intervention = Destroys all creatures but keep mine alive
+
+Whelming Wave Combos
+Whelming Wave + Timeless Witness = 4UUGG, Socery Unli Clear
+Emergence Zone + Nyx Weaver + Whelming Wave(in GV) = 5BGUU, flash  clear when attacking
+
+Strategy:
+- Play defensively early game
+- Use early removals to stop early threats.
+- lockdown board with SEA creatures remaining
+- making enemy think I have a Counterspell threat when I have big mana available multiple cards
+
+Counterspell play:
+
+Nyxweaver - can counterspell from graveyard.
+Bonny Pall, Clearcutter - returns sacrificed lands without turning them into tokens by commander
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Deck Reference: Lands Matter, Mill, Ramp
+Creatures 28 (27 + Commander)
+Instants 12
+Sorceries 8
+Artifacts 6
+Enchantments 6
+Planeswalkers 0
+Lands 39 + Urza's Saga(Land Enchantment)
+
+Mana Curve: Creature(Non-Creature Permanent)(Spells)
+0 0(0)(0)				0
+1 4(3)(1)				8			
+2 1(7)(2)				10		
+3 6(1)(9)				16		
+4 5(1)(3)				9		
+5 3(2)(0)				5		
+6-9 8(3)(0)				11 + Commander			
+
+Removals: 4 + 2 LAND REMOVALS
+Board Wipe: 1
+Card Draw: 9
+Ramp: 14
+Recursion: 10
+Counterspell: 2
+Legendary Creatures: 8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lands Matter, Mill, Ramp:
+https://edhrec.com/deckpreview/8PT1Hh9sHv0hqYsKc6JlNA
+
+Sea Creatures: 
+https://edhrec.com/deckpreview/r0MNtM5q1KNWm79UkKlKPA

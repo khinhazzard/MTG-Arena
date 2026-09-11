@@ -1,0 +1,199 @@
+
+SAVE 10X GOLD WILD CARD FIRST BEFORE DECIDING TO BUY
+
+
+Priority Crafts:
+
+Anti Aggro:
+(4)Leyline of Anticipation		FLASH for all spells
+
+ETB:
+
+Defensive: 
+(3)Sporeweb Weaver			RC, TK
+
+Landfall:
+Slogurk, the Overslime			LF amplifier
+
+Land Sacrifice:
+(3)Uurg Spawn of Turg			LG
+(6)Lochmere Serpent			LG
+
+Discard:
+(3)Ninja's Blades
+(2)Lotleth Troll			DC(instant speed), CR
+
+Blink:
+(4)Displacer Kitten
+
+Token:
+(2)Sinkhole Surveyor			FL, TK
+(3)Woe Strider
+(3)Mirror Room
+(4)Mythweaver Poq			TK, LND
+(4)Primal Vigor
+(4)Kiora, the Crashing Wave
+
+Tutor:
+(4)Gravebreaker Lamia
+(2)Case of the Stashed Skeleton
+(2)Assemble the Team
+
+Removal:
+(3)Putrefy
+(3)Awaken the Honored Dead
+(2)Torment of Hailfire
+(2)Krosan Grip
+(2)Deadly Brew
+(1)Bushwhack
+(2)Boseiju Who Endures			LAND
+(4)Otawara Soaring City			LAND
+(5)Iceridge Serpent
+(2)Witherbloom Command			ML, LG
+(4)Housemeld
+(3)Tome of  the infinite
+(4)Key to the Archive
+
+Draw:
+(2)Herd Heirloom
+(3)Mazemind Tome			LG
+(3)Compulsive Research			LND
+(3)Uro Titan of Nature's Wrath
+(3)Lunar Insight
+(3)Garruk's Uprising			GIVES TRAMPLE
+(4)Memory Deluge			FB
+(4)Nissa of Shadowed Boughs
+(4)Gitrog Horror of Zhava		LF
+(2)Kishla Skimmer			FL, GV, Bird
+(2)Baleful Strix			FL
+(7)Vaultborn Tyrant			TK, LG
+(2)Strategic Planning			GV	
+(3)Mu Yanling Skydancer			FL		
+(5)Urban Evolution			LND
+(4)Swarm Culler				SACRIFICE OUTLET
+
+Avatar:
+(5)Muldrotha, the Gravetide		LND, GV
+(5)Overlord of the Balemurk		ML, R
+
+Board Wipe:
+(3)Choking Miasma
+(5)Raksasha Vizier
+(8)Death Begets Life
+(6)River's Rebuke
+(7)Toxrill the Corrosive		TK, DRAW
+(7)Hurkyl's Final Meditation		
+(6)Flood of Tears
+
+Untap:
+(3)Staff of Domination
+(2)Silken Strength
+(2)Kiora's Follower
+(2)Dramatic Reversal
+(3)Meneldor, Swift Savior		FL
+(3)Invasion of Segovia
+(3)Vizier of Tumbling Sands		
+
+Mill:
+(1)Waterlogged Hulk
+(3)Six					RC, ML
+(3)Realmbreaker the Invasion Tree	ML opponent, LND
+(3)Glacierwood Siege
+(2)Mesmeric Orb
+(3)Rakshasa's Secret			ML
+(4)Blossoming Tortoise			ML
+
+Protection
+(1)Dragonfire Blade
+(1)Slip out the Back			CR, Phase Out
+(0)Pact of Negation
+(3)Curator's Ward
+(3)Flare of Denial
+(X1)March of the Swirling Mist
+(1)Tamiyo's Safekeeping
+(2)Tefer's Time Twist			BLINK, CR
+(7)Titan of Industry			LG, RC
+Endless Sands				LAND
+
+RAMP:
+(1)Burgeoning				
+(1)Gilded Goose				FL, LG
+(1)Delighted Halfling			prevents counter
+(2)Grisly Salvage
+(2)Herd Heirloom			
+(2)Sapphire Meddalion
+(2)Deathcap Cultivator
+(3)Augur of Autumn			LND
+(3)Chromatic Lantern
+(3)Nissa's Pilgrimage			LND
+(3)Clifftop Lookout			LND, RC
+(3)Scute Swarm
+(3)Sultai Banner
+(3)Worn Powerstone
+(4)Inga and Esika			Allows tokens to ramp
+(4)Scapeshift
+(4)Slumbering Isle
+(5)Bloomvine Regent			LND, FL
+Lotus Field				LND
+The Reality Chip
+
+Other:
+(3)Mirror Box				LEGEND RULE Doesn't apply
+
+Recursion:
+(1)Noxious Revival
+(2)Gaea's Blessing
+
+SEA Creatures:
+(3)Arcane Adaptation
+(3)Runo, Stormkirk			TK
+(4)Maskwood Nexus
+(4)Arixmethes, Slumbering Isle		RAMP
+(6)Lochmere Serpent			LG, DRAW
+(6)Serpent of Yawning Depths
+(6)Shipbreaker Kraken
+(6)Xolatoyac, the Smiling Flood		LAND UNTAPPER
+(12)Icebreaker Kraken
+
+Lifegain:
+(0) Zuran Orb
+(3) Gnaw to the Bone 
+(4) Aetherflux Reservoir
+
+Lands:
+Shifting Woodland (G)
+Deathcap Glade (BG)
+Drowned Catacomb (BU)
+Shipwreck Marsh (BU)
+Sunken Hollow (BU)
+Watery Grave (BU)
+Field of the Dead (<>)			S
+Woodland Cemetery (BG)
+Overgrown Tomb (BG)
+Hinterland Harbor (GU)
+Dreamroot Cascade (GU)
+Breeding Pool (GU)
+Polluted Delta (BU)
+
+Gloomlake Verge
+
+Counterspells:
+(1)Spell Snare
+(1)Flusterstorm
+(2)Memory Lapse
+(2)Daze
+(2)Mana Leak
+(3)Archmage's Charm
+(3)Sinister Sabotage			SV
+(3)Force of Negation
+(4)Rewind				Land Untapper
+(1)Flusterstorm
+(4)Cryptic Command
+(X2)Thassa's Intervention		DRAW
+(4)Summary Dismissal
+(4)Overcharged Amalgam			FLASH, FL
+(4)Cryptic Command
+(6)Sublime Epiphany
+
+Counterspells:
+https://draftsim.com/blue-counterspells-mtg/

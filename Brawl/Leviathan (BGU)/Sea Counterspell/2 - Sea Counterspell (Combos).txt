@@ -1,0 +1,85 @@
+Strategy:
+- Play defensively early game
+- Use early removals to stop early threats.
+- lockdown board or end game with SEA creatures 
+- making enemy think I have a Counterspell threat when I have big mana available multiple cards
+
+Waterlogged Teachings Combo:
++ Pact of Negation / Flare of Denial(Sacrifice Blue) (4 mana) -> Enemy plays game-winning spell while you are tapped out
++ Entomb (5 mana) -> Need a big Sea Monster in your graveyard immediately
++ Cling to Dust (5 mana) -> Stop an enemy graveyard reanimation loop or gain emergency life against aggro
++ Sea-Dasher Octopus (6 mana) -> Mutate onto an unblocked attacker to draw a card
++ Dig Through Time (6 mana) -> Search top 7 cards for any 2 cards at instant speed (Assumes 2-mana Delve cost)
++ Harrow (7 mana) -> Missed a land drop or missing colors on enemy turn
++ Tear Asunder (8 mana) -> Exile any dangerous nonland Permanent (6 mana if no kicker)
++ Spell Swindle (9 mana) -> Counter a big spell to make a massive pile of Treasures
++ Cyclonic Rift (11 mana) -> Enemy board is too dangerous and threatening lethal
++ Hullbreaker Horror (11 mana) -> Drop an uncounterable, flash win condition
+
+TBD:
++ Tamiyo's Safekeeping (5 mana) -> Target permanent gains Hexproof + Indestructible to save it from a wipe or removal
++ Stifle (5 mana) -> Counter a game-winning activated/triggered ability or an opposing Fetch Land trigger
++ Bitter Triumph (6 mana) -> Kill any Creature/Planeswalker + discard a Sea Monster
++ Soul Shatter (7 mana) -> Force opponent to sacrifice their highest-mana uncounterable boss creature
++ Spell Snare (5 mana) -> Hard counter a critical 2-mana spell on the stack (e.g., opposing Bitter Triumph/Tale's End)
+
+Notable Combos:
+💥 Board Wipe Blowouts vs symmetrical resets
++ (4) Culling Ritual + active tokens = Wipes all cheap permanents to generate a massive mana explosion
++ (4) Damnation + (1) Tamiyo's Safekeeping (5 mana total) = Wipes the entire battlefield while keeping your threat alive
+
+🌊 Whelming Wave Loops vs creature-heavy boards
++ Emergence Zone + (3) Nyx Weaver + (4) Whelming Wave (in graveyard) (7 mana setup + UU) = Cast a surprise, flash-speed asymmetric board clear on an opponent's turn
+
+🪦 Nyx Weaver Graveyard Engines vs unexpected lines of defense
++ Unexpected Counterspell Play (3 mana total) = Sacrifice Nyx Weaver to fetch Pact of Negation from your graveyard when completely tapped out with an empty hand
++ Multi-Turn Counter & Clone Loop (9 mana per turn / 11 mana if drawing) -> (3) Nyx Weaver + (3+) Three Steps Ahead = Sacrifice token Weavers to repeatedly loop Three Steps Ahead from your graveyard on enemy turns
++ Graveyard Command Center (5 mana total + spell cost) -> (3) Nyx Weaver + Emergence Zone = Sacrifice Emergence Zone to cast any card pulled by Nyx Weaver at instant speed on an opponent's turn
+
+🌾 Land-Sacrifice Engine vs needing unblockable damage or infinite card draw
++ (6) Lochmere Serpent + (1) Urborg + (8) Stormtide Leviathan = Every land becomes a simultaneous Island-Swamp sacrifice resource
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ENTOMB PRIORITY
+~~~
+The ones you'll probably use 90% of the time
+Lumra - Need mana
+Koma - Need to win
+Hullbreaker Horror - Need control
+Kiora Bests the Sea God - Need value
+Psychic Pickpocket - Need to answer a permanent
+Slinn Voda - Need a reset
+Stormtide Leviathan - Need to stop aggro
+~~~
+1. Lumra, Bellow of the Woods - Ramp / Return lands
+2. Koma, Cosmos Serpent - Best finisher
+3. Hullbreaker Horror - Control / Bounce lock
+4. Kiora Bests the Sea God - 8/8 Hexproof + Saga value
+5. Psychic Pickpocket - Bounce any nonland permanent
+6. Slinn Voda, the Rising Deep - Reset creature boards
+7. Stormtide Leviathan - Stop aggro & ground creatures
+8. Iceridge Serpent - Bounce creature / Tempo
+9. Lochmere Serpent - Flexible finisher / Graveyard utility
+10. Summon: Leviathan - Leviathan token + Saga value
+11. Shipbreaker Kraken - Long game mana sink
+12. Spinewoods Armadillo - Stabilize combat
+13. Grappling Kraken - Large blocker / Pressure
+14. Xolatoyac, the Smiling Flood - Untap synergy / Value
+15. Tolarian Kraken - Card draw payoff
+
+
+TBD:
+Wonder - Make your creatures fly
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Unused:
+🛡️ Moat Lockdown vs aggressive armies
+(8) Sandwurm Convergence + (8) Stormtide Leviathan = Opponents cannot attack you unless they have Islandwalk
++ (4) Wonder (in graveyard) = Gives your ground Sea Monsters flying to bypass your own lock
++ (5) Meandering Towershell = Optional attacker that utilizes natural Islandwalk under this lock
+
+🌊 Whelming Wave Loops vs creature-heavy boards
++ (4) Whelming Wave + (4) Timeless Witness (or Archaeomancer) (8 mana total) = Infinite sorcery-speed bounce lock
+
+⏳ TBD / Testing Ideas
++ (6) Bonny Pall, Clearcutter = Recovers sacrificed lands without triggering your commander's token-transformation ability
