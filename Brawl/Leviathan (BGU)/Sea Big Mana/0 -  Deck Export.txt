@@ -1,0 +1,91 @@
+Commander
+1 Sin, Spira's Punishment (FIN) 242
+
+Deck
+1 Command Tower (ANB) 118
+1 Fabled Passage (BLB) 252
+1 Hedge Maze (MKM) 262
+1 Undercity Sewers (MKM) 270
+1 Underground Mortuary (MKM) 271
+1 Urborg, Tomb of Yawgmoth (PIO) 118
+1 Prime Speaker Zegana (FDN) 664
+1 Polluted Delta (MH3) 224
+1 Tidal Terror (MOM) 82
+1 Shipbreaker Kraken (PIO) 72
+1 Summon: Leviathan (FIN) 77
+1 Misty Rainforest (MH2) 250
+1 Zagoth Triome (IKO) 259
+1 Cavern of Souls (LCI) 269
+1 Breeding Pool (RNA) 246
+1 Kishla Village (TDM) 259
+1 Monstrous Vortex (MH3) 162
+1 Stormtide Leviathan (PIO) 75
+1 Sea-Dasher Octopus (IKO) 66
+1 Lorthos, the Tidemaker (OMB) 10
+1 Exploration (DMR) 159
+1 Miscalculation (ULG) 36
+1 Through the Forest Gate (HOB) 137
+1 Nissa's Pilgrimage (PIO) 348
+1 Assassin's Trophy (MKM) 187
+1 Compulsive Research (STA) 14
+1 Charix, the Raging Isle (ZNR) 49
+1 Whelming Wave (JMP) 193
+1 Flare of Denial (MH3) 62
+1 The Great Henge (ELD) 161
+1 Boseiju, Who Endures (NEO) 266
+1 Otawara, Soaring City (NEO) 271
+1 Hullbreaker Horror (VOW) 63
+1 Culling Ritual (STX) 172
+1 Chromatic Lantern (FCA) 61
+1 Prismatic Vista (SPG) 38
+1 Reliquary Tower (M19) 254
+1 Entomb (ODY) 132
+1 Icebreaker Kraken (KHM) 63
+1 Harrow (J25) 668
+1 Kiora, the Rising Tide (FDN) 45
+1 Entish Restoration (LTR) 163
+1 Watery Grave (EOE) 261
+1 Verdant Catacombs (SPG) 113
+1 Koma, Cosmos Serpent (KHM) 221
+1 Cultivate (M21) 177
+1 Spell Swindle (XLN) 82
+1 Kozilek's Unsealing (MH3) 65
+7 Snow-Covered Island (KHM) 279
+6 Snow-Covered Forest (KHM) 285
+1 Beast Within (OMB) 33
+1 Caelorna, Coral Tyrant (DFT) 40
+2 Snow-Covered Swamp (KHM) 281
+1 Famished Worldsire (EOE) 182
+1 Cyclonic Rift (RTR) 35
+1 Kiora, Sovereign of the Deep (MAT) 35
+1 Nadir Kraken (J25) 332
+1 Mesmerizing Benthid (RNA) 43
+1 Pact of Negation (AKR) 73
+1 Lochmere Serpent (ELD) 195
+1 Acquisition Octopus (NEO) 44
+1 Waterlogged Teachings (MH3) 261
+1 Westvale Abbey (SIR) 275
+1 Rhystic Study (WOT) 25
+1 Dig Through Time (FIC) 263
+1 Slinn Voda, the Rising Deep (DAR) 66
+1 Ominous Seas (IKO) 61
+1 Kiora, the Crashing Wave (PIO) 354
+1 Kiora Bests the Sea God (THB) 52
+1 Grappling Kraken (FDN) 39
+1 Virtue of Strength (WOE) 197
+1 Waker of Waves (J25) 383
+1 Runo Stromkirk (VOW) 246
+1 Tatyova, Benthic Druid (FDN) 247
+1 Lumra, Bellow of the Woods (BLB) 183
+1 The Water Crystal (FIN) 85
+1 Command Beacon (FCA) 64
+1 Arcane Signet (ANB) 117
+1 Psychic Pickpocket (SNC) 54
+1 Striped Riverwinder (AKR) 82
+1 Glacier Godmaw (EOE) 188
+1 Koma, World-Eater (FDN) 121
+1 Colossal Skyturtle (NEO) 216
+1 Gyruda, Doom of Depths (MUL) 107
+1 Kiora, Behemoth Beckoner (WAR) 232
+1 Sapphire Medallion (MH3) 296
+1 Hedron Archive (FDN) 726
