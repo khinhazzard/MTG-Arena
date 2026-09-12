@@ -1,0 +1,381 @@
+RWB Treasure Outlaws: TReasure, Outlaws(Assassins, Mercenaries, Pirates, Rogues, Warlocks)
+
+Commander: Olivia, Opulent Outlaw (W,B,R)
+
+Main:
+TR: 25
+O: 6
+Rogues: 15
+Mercenary: 6
+Pirate: 6
+Assassins: 5
+Warlocks: 4
+
+
+Sub:
+CR: 6
+LG: 6
+DT: 5
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Priority Crafts:
+(4)Tenured Inkcaster				O, LG, CR
+(4)Aetherborn Marauder				O, FL, LG
+(4)Anointed Procession				TR			
+(3)Varragoth Bloodsky Sire			O
+(2)Tataru Taru					TR
+(2)Marionette Apprentice	
+(2)Tarrian's Journal				
+(1)The Ozolith					CR
+(4)Massacre Girl, Known Killer			O
+
+Aggro:
+(4)Edgar Charmed Groom				LG, S
+(4)Rev Tithe Extractor				O, TR
+(1)Stalactite Stalker				O, CR
+(3)Nighthawk Scavenger				DT, FL, LG
+(3)Aggravated Assault
+(3)Locke Treasure Hunter			O, R, TR
+(3)Forerunner of the Coalition			O
+(1)Tarrian's Soulcleaver			CR
+
+(Treasure Vault)				TR
+(Access Tunnel)
+
+(Boros Locket)
+(Orzhov Locket)
+(3)Sword of Wealth and Power			TR
+
+Removal:
+(4)Inevitable Defeat
+
+Ramp:
+
+Draw:
+(2)Treasure Map					TR
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Spree spell tracker:
+1:
+Final Showdown(6)				(7)(8)(2)(3)
+
+Great Train Heist(4)				(5)(6)(7)(3)(2)
+Requisition Raid(3)				(2)(4)
+
+2:
+
+
+TBD:
+Spiteful Banditry(5X+)				TR
+Unfortunate Accident(5)				(4)
+Insatiable Avarice(3)				(5)
+Caught in the Crossfire(3) 
+Hell to Pay(5X+)				(5)
+~~~~~~~~~~~~~~~~~~~~~~
+Current Mana Curve: Creature(Non-creature Permanent)(Spells)
+				    Grand Total	
+1 6(2)(5)				13					
+2 9(10)(2)				22	+ Requisition Raid(3,2,4)	
+3 13(3)(1)+ Commander			18	
+4 8(3)(1)				12
+5 2					2	
+6-9 0					2	+ Final Showdown,Great Train Heist		
+				
+
+Mana Curve Goal: Creature(Non-Creature Permanent)(Spells)
+1 6(2)(5)				13		 
+2 9(10)(3)				22			
+3 13(3)(1) + Commander			18			
+4 8(3)(1)				12		
+5 2					2	
+6-9 0(0)(2)				2
+		
+Total Creatures:				35
+
+~~~~~~~~~~~~~~~~~~~~~~
+Lands: 31(8 are Tapped) + 2 Land Alternatives (9 Limit for Tapped) 
+1x Plains
+4x Swamp
+2x Mountain
+Savai Triome (RBW)				TPD
+Nomad Outpost (RWB)				TPD
+Caves of Koilos (WB)
+Battlefield Forge (RW)
+Sulforous Springs (BR)
+Command Tower (ANY)
+Brightlcimb Pathway (WB)
+Blightstep Pathway (BR)
+Needleverge Pathway (RW)
+Marsh Flats (WB)
+Godless Shrine (WB)				TPD
+Bloodstained Mire (RB)
+Mount Doom (RB)
+Blazemire Verge (RB)
+Arid Mesa (RW)
+Sunbaked Canyon (RW)
+Mines of Moria (R)				TR
+Isolated Chapel (WB)				TPD
+Blood Crypt (BR)				TPD
+Silent Clearing	(WB)				Draw
+Urborg, Tomb of Yawgmoth(B)
+Dragonskull Summit (BR)				TPD
+Sacred Foundry (RW)				TPD
+Malakir Rebirth (B)				Land, TP
+Witch Enchanter (W)				O, Land, TP
+
+TBD:
+Volatile Fault					TR
+Abraded Bluffs					C
+Bonder's Enclave				DR
+Gate to Tumbledown				DR	
+Gate of the Black Dragon			DR
+Minas Tirith					DR
+The Fair Basilica				DR
+Boggart Trawler					C
+Thriving Bluff
+Restless Bivouac (RW)				TPD, CR, Creature
+~~~~~~~~~~~~~~~~~~~~~~
+Protection:
+Swiftfoot 
+Lavaspur Boots
+Final Showdown
+Boros Charm
+
+~~~~~~~~~~~~~~~~~~~~~~
+Combat Tricks:
+Great Train Heist				TR
+Final Showdown
+
+
+TBD: 
+Legion Leadership (RW)				Land
+Moment of Valor
+Outlaws Fury					O
+~~~~~~~~~~~~~~~~~~~~~~
+5 Board Wipes
+Final Showdown					Protection
+Spiteful Banditry				TR
+Massacre Girl					O
+
+TBD:
+Blood Money					TR
+Caught in the Crossfire 			O
+No Witnesses
+Brotherhood's End
+Expel the Interlopers
+(Toxic Deluge)
+(Farewell)
+(Ruinous Ultimatum)
+~~~~~~~~~~~~~~~~~~~~~~
+7 Removal Spells
+~~ Hard Removals ~~
+Sword to Plowshares
+Path to Exile
+Chaos Warp
+
+~~ Soft Removals ~~
+Grim Hireling					O, TR
+Requisition Raid
+Hell to Pay					TR	
+Fatal Push
+Feed the Swarm	
+Null Elemental Blast
+Lassoed by the Law				O, S
+
+TBD:
+Downwind Ambusher				O	
+Deadly Derision					TR
+Unfortunate Accident				O, S
+Grim Bounty					TR
+Murder
+Make Your Move
+Bovine Intervention
+Break the Spell					DR
+Rooftop Assassin				O, FL, LG
+Ruthless Lawbringer				O
+Stingblade Assassin				O, FL
+Fell the Profane (B)				Land
+Stroke of Midnight
+Shoot the Sheriff
+Stroke of Midnight
+Moment of Valor	
+Anguished Unmaking
+~~~~~~~~~~~~~~~~~~~~~~
+6-7 Draw
+Discerning Financer				TR
+Outlaw Medic					O, LG
+Bonehoard Dracosaur				TR, S
+Fairie Dreamthief				O, FL
+Morbid Opportunist				O
+Prosper Tome Bound				TR, O
+Darkstar Auger					O, FL
+Black Market Connections			TR
+(4)Big Score					TR
+
+TBD:
+Sticky Fingers					TR
+Unexpected Windfall
+Insatiable Avarice
+Bandit's Haul
+Demand Answers
+Ruthless Knave					O, TR
+Unscrupulous Contractor				O
+Reckless Lackey					O, TR
+Vault Plunderer					O
+Redrock Sentinel				TR
+Deadly Dispute					TR
+Grabby Giant					TR
+~~~~~~~~~~~~~~~~~~~~~~
+Recursion:
+Whip of Erebos					LG, R, Legendary Artifact
+(4)Squall, Seed Mercenary			O
+
+TBD:
+Mourner's Surprise				O
+~~~~~~~~~~~~~~~~~~~~~~
+9 Ramp
+Coldsteel Heart
+Mind Stone
+Solar Transformer
+Gold Pan					TR
+Arcane Signet
+Diamond Pick-Axe
+Swashbuckler Extraordinaire			TR, O
+Breeches Eager Pillager				TR, O
+Claim Jumper					O
+Deadeye Tracker					O, CR
+Goldvein Pick					TR
+Blitzball
+(3)Magic Pot
+
+TBD:
+Treasure Dredger				O, TR
+Glittering Stockpile				TR
+Crime Novelist					CR
+Dark Ritual
+Lobelia Sackville Baggins			TR
+Hit the Mother Lode				TR
+(Ragavan Nimble Pilferer)			O, TR
+(Generous Plunderer)				O, TR
+Pillar of Origins
+Buried Treasure
+Pitiless Plunderer				TR, O
+Vaan, Street Thief				TR
+~~~~~~~~~~~~~~~~~~~~~~
+Tutors:
+
+TBD:
+Servant of the Stinger				O
+~~~~~~~~~~~~~~~~~~~~~~
+18 Synergies
+Mirkwood Bats					FL, A
+Captain Lannery Storm				TR, O
+Hired Poisoner					O
+Duskmantle Operative				O
+Form a Posse					O, S, TK
+Lightfoot Rogue
+Bitterblossom					O, S, FL 	
+Ragaven, Nimble Pilferer			TR, O
+Aven Interrupter				O, FL
+Changeling Outcast
+Laughing Jasper Flint				O
+Hellspur Posse Boss				O
+Vial Smasher Gleeful Grenadier			O
+At Knifepoint					O
+Zoyowa						O
+Baron Bertram Graywater				O
+Charming Scoundrel				O, TR
+Tinybones the Pickpocket			O, R
+Prickly Pair					O, S
+Xorn						TR
+Magda the Hoardmaster				TR, S
+Kalain Reclusive Painter			TR, CR
+Plundering Pirate				O, TR
+Sterling Keykeeper				O, C
+Lotho Corrupt Shirriff				TR
+Trailblazer Boots (Lorien Brooch)
+Outlaws Merriment				O, S
+Midnight Assassin				O, FL, DT
+Syr Ginger, Meal Ender				CR, LG, Legendary Artifact
+Winter Moon					NO UNTAP
+(4)Vincent Valentine				O, CR, LG
+Sidequest: Play Blitzball			DOUBLE STRIKE
+
+
+TBD: 
+Cranial Ram					TR(Combo)
+Sundering Eruption				Land
+Undercity Scrounger				O, TR
+Vadmir New Blood				O, LG
+Nezumi Linkbreaker				O, S
+Wispdrinker Vampire				O, FL
+Warleader's Call
+Nurturing Pixie					O, FL
+Deadeye Duelist					O, C, RC
+Greedy Freebooter				O, TR
+Wanted Griffin					O, S, FL
+Brazen Blademaster				O
+Hellspur Brute					O
+Brimstone Roundup				O, S
+Mine Raider					O, TR
+Redcap Thief					O, TR
+Rakdos the Muscle				O
+Helm of the Host
+Luxurious Locomotive				TR
+Quietus Spike
+Rankle and Torbran				TR
+Longhorn Sharpshooter				O, RC
+Hollow Marauder					O, FL
+Gixian Puppeteer				O, LG
+Blood Hustler					O, C, LG
+Boneyard Desecrator				O, TR
+Forsaken Miner					O, R
+Pyrotechnic Performer				O
+Taii Wakeen Perfect Shot			O
+Scalestorm Summoner				O
+Rattleback Apothecary				O
+Kaervek the Punisher				O
+Gumdrop Poisoner				O, LG
+Prosperity Tycoon				O, S
+Rictus Robber					O, S
+Infernal Captor					O
+Rakish Crew					O, LG
+Cindering Cutthroat				O
+Heartless Pillage				TR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Deck Reference: Currently Being Used
+Creatures 39 (38 + Commander)
+Instants 8
+Sorceries 4
+Artifacts 13	(9 Ramp Artifacts)
+Enchantments 6
+Planeswalkers 0
+Land: 31 
+https://edhrec.com/deckpreview/L6xRJKNtfm6LNM1yY74u7w
+
+Mana Curve: Creature(Non-Creature Permanent)(Spells)
+1 6(2)(5)				13		
+2 9(10)(2)				21			
+3 13(3)(1) + Commander			17			
+4 8(3)(1)				12		
+5 2					2	
+6-9 0(0)(2)				2
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Deck Reference: More Creatures
+Creatures 47 (46 + Commander)
+Instants 8
+Sorceries 3
+Artifacts 2
+Enchantments 4
+Planeswalkers 0
+Lands 36
+https://edhrec.com/deckpreview/YX2u1NoGfb34RI0KDq863A#creature
+1 11(1)(2)						
+2 13						
+3 12						
+4 4						
+5 1						
+6-9 1				

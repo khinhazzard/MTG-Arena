@@ -1,0 +1,261 @@
+RWB Treasure Outlaws: TReasure, Outlaws
+
+Priority Picks:
+(Tenured Inkcaster)				O, LG, CR
+(Mirkwood Bats)					FL
+(Aetherborn Marauder)				O, FL, LG
+(Marionette Apprentice)				
+(Big Score)
+(Unexpected Windfall)	
+(Legion Leadership)				Land
+(Fell the Profane)				Land
+(Sundering Eruption)
+(Black Market Connections)
+(Bitterblossom)
+(Anointed Procession)
+
+Commander: Olivia, Opulent Outlaw
+
+Chart Guide: 33 Creatures, 35 Lands, 8 Instants, 7 Sorceries, 9 Artifacts, 7 Enchantments, 1 Commander
+
+Average Overall Mana Curve
+7	16	22	10(1)	5	2 = 63 (original)
+9	16	22	10(1)	5	2 = 65 (updated)
+1	2	3	4	5	6+
+
+Spree spell tracker:
+1:
+Final Showdown(6)				(7)(8)(2)(3)
+Hell to Pay(5X+)
+Unfortunate Accident(5)				(4)
+Great Train Heist(4)				(5)(6)(7)(3)(2)
+Requisition Raid(3)				(2)(4)
+Insatiable Avarice(3)				(5)
+
+2:
+Caught in the Crossfire(3) 
+Spiteful Banditry(5X+)				TR
+
+~~~~~~~~~~~~~~~~~~~~~~
+Mana Curve:
+1 0-6						6
+2 6-10						10
+3 6-9						9
+4 4-7						7
+5 2-5						2
+6-9 0-4						0
+
+Total Creatures:
+
+~~~~~~~~~~~~~~~~~~~~~~
+Lands:
+3x Plains
+5x Swamp
+5x Mountain
+Shattered Landscape
+Canyon Slough
+Savai Triome
+Caves of Koilos
+Concealred Courtyard
+Forlorn Flats
+Jagged Barrens
+Bloodfell Caves
+Blackcleave Cliffs
+Restless Bivouac
+Inspiring Vantage
+Battlefield Forge
+Sulforous Springs
+Abraded Bluffs					C
+Haunted Ridge
+Shadowy Backstreet
+Volatile Fault					TR
+Nomad Outpost
+Thriving Bluff
+Raucous Theater
+Wind Scarred Crag
+
+Scoured Barrens
+
+
+TBD:
+Bonder's Enclave				DR
+Gate to Tumbledown				DR	
+Arena of Glory
+Gate of the Black Dragon			DR
+Minas Tirith					DR
+The Fair Basilica				DR
+Hidden Courtyard
+Hidden Volcano	
+Drannith Ruins
+Boggart Trawler					C
+(Mines of Moria)				TR
+(Treasure Vault)				
+~~~~~~~~~~~~~~~~~~~~~~
+Protection:
+Swiftfoot 
+Lavaspur Boots
+Final Showdown
+
+~~~~~~~~~~~~~~~~~~~~~~
+Combat Tricks:
+Great Train Heist				TR
+Final Showdown
+Moment of Valor
+
+TBD: 
+Outlaws Fury					O
+~~~~~~~~~~~~~~~~~~~~~~
+5 Board Wipes
+Blood Money					TR
+Massacre Girl					O
+Final Showdown					Protection
+Caught in the Crossfire 			O
+Spiteful Banditry				TR
+
+TBD:
+No Witnesses
+Brotherhood's End
+Expel the Interlopers
+(Toxic Deluge)
+(Farewell)
+(Ruinous Ultimatum)
+~~~~~~~~~~~~~~~~~~~~~~
+7 Removal Spells
+Requisition Raid
+Feed the Swarm
+Hell to Pay					TR
+Stroke of Midnight
+Moment of Valor
+Unfortunate Accident				O, S
+Anguished Unmaking
+Witch Enchanter					O
+Grim Bounty					TR
+
+TBD:
+Lassoed by the Law				O, S
+Murder
+Make Your Move
+Bovine Intervention
+Shoot the Sheriff
+Break the Spell					DR
+Rooftop Assassin				O, FL, LG
+Ruthless Lawbringer				O
+Stingblade Assassin				O, FL
+(Chaos Warp)
+~~~~~~~~~~~~~~~~~~~~~~
+6-7 Draw
+Deadly Dispute					TR
+Insatiable Avarice
+Bandit's Haul
+Discerning Financer				TR
+Sticky Fingers					TR
+Phyrexian Arena
+Outlaw Medic					O, LG
+Bonehoard Dracosaur				TR, S
+
+TBD:
+Demand Answers
+Fairie Dreamthief				O, FL
+Ruthless Knave					O, TR
+Unscrupulous Contractor				O
+Reckless Lackey					O, TR
+Vault Plunderer					O
+Grabby Giant					TR
+Redrock Sentinel				TR
+(Morbid Opportunist)				O
+(Massacre Girl, Known Killer)			O
+(Black Market Connections)
+~~~~~~~~~~~~~~~~~~~~~~
+4-6 Ramp
+Pitiless Plunderer				TR, O
+Swashbuckler Extraordinaire			TR, O
+Breeches Eager Pillager				TR, O
+Prosper Tome Bound				TR, O
+Claim Jumper					O
+Arcane Signet
+Treasure Dredger				O, TR
+Glittering Stockpile				TR
+Diamond Pick-Axe
+
+TBD:
+Dark Ritual
+Lobelia Sackville Baggins			TR
+Hit the Mother Lode				TR
+(Grim Hireling)					O
+(Ragavan Nimble Pilferer)			O, TR
+(Generous Plunderer)				O, TR
+~~~~~~~~~~~~~~~~~~~~~~
+Recursion:
+
+TBD:
+Mourner's Surprise				O
+~~~~~~~~~~~~~~~~~~~~~~
+Tutors:
+
+TBD:
+Servant of the Stinger				O
+~~~~~~~~~~~~~~~~~~~~~~
+18 Synergies
+Cranial Ram
+Aven Interrupter				O, FL
+Heartless Pillage				TR
+Nurturing Pixie					O, FL
+Changeling Outcast
+Laughing Jasper Flint				O
+Hellspur Posse Boss				O
+Vadmir New Blood				O, LG
+Rakish Crew					O
+Vial Smasher Gleeful Grenadier			O
+At Knifepoint					O
+Outlaws Merriment				O
+Zoyowa						O
+Wispdrinker Vampire				O, FL
+Baron Bertram Graywater				O
+Charming Scoundrel				O, TR
+Tinybones the Pickpocket			O, R
+Wanted Griffin					O, S, FL
+Prickly Pair					O, S
+Undercity Scrounger				O, TR
+Xorn						TR
+Magda the Hoardmaster				TR
+Kalain Reclusive Painter			TR
+Plundering Pirate				O, TR
+Nezumi Linkbreaker				O, S
+Deadeye Duelist					O, C, RC
+Sterling Keykeeper				O, C
+Lotho Corrupt Shirriff				TR
+Warleader's Call
+Trailblazer Boots (Lorien Brooch)
+Greedy Freebooter				O, TR
+
+
+
+TBD: 
+Brazen Blademaster				O
+Hellspur Brute					O
+Brimstone Roundup				O, S
+Mine Raider					O, TR
+Redcap Thief					O, TR
+Rakdos the Muscle				O
+Form a Posse					O, S, TK
+Helm of the Host
+Luxurious Locomotive				TR
+Quietus Spike
+Rankle and Torbran				TR
+Longhorn Sharpshooter				O, RC
+Hollow Marauder					O, FL
+Gixian Puppeteer				O, LG
+Blood Hustler					O, C, LG
+Boneyard Desecrator				O, TR
+Forsaken Miner					O, R
+Pyrotechnic Performer				O
+Taii Wakeen Perfect Shot			O
+Scalestorm Summoner				O
+Rattleback Apothecary				O
+Kaervek the Punisher				O
+Gumdrop Poisoner				O, LG
+Prosperity Tycoon				O, S
+Rictus Robber					O, S
+Infernal Captor					O
+Heartless Pillage				TR
+		
