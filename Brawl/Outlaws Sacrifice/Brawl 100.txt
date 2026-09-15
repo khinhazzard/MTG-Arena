@@ -1,0 +1,200 @@
+
+
+1 Commander: Rakdos, The Muscle
+
+5 board wipes:
+Blood money
+Massacre girl		(O)
+Flame Sweep
+Brotherhood's End
+Siege Dragon
+
+
+TBD:
+Cosmotronic wave
+Rankle's Prank
+Urabrask
+Gix's Command
+(the meathook massacre)
+----------------------
+8 Removal:
+Annihilating Glare
+Pile On
+Murder
+Go for the Throat
+Bedevil
+Feed the Swarm
+Bone Splinter
+
+
+
+TBD:
+Claim the Firstborn		SC(after use)
+Shattering Finale
+Traumatic Prank
+Deadly Derision
+Rooftop Assassin
+Smelt
+Get the point
+Toralf Disciple
+Intruder's Inquisition
+Inescapable Blaze
+Melt Through
+Purphoros Intervention	S
+(Eliminate)
+(Abrade)
+(March of Wreched Sorrow)
+(Heartless Act)
+(Skewer the Critics)
+(Bolt Bend)
+(imp mischief)
+(Call in a Professional)
+(Extract the Truth)
+(Chaos Warp)
+----------------------
+10 Draw:
+Garna Bloodfist					A
+Reckoner's Bargain
+Deadly Dispute
+Jaxis the troublemaker
+Mirror of Galadriel
+Demand Answers
+Bad Deal
+Fatal Grudge
+Village Rites
+Spark Reaper					S
+
+
+TBD:
+Stormclaw Rager
+Vampiric Rites
+Corrupted Conviction
+(Priest of forgotten gods)			C, SO
+(Faithless Looting)
+(Liliana Dreadhorde General)
+(Pitiless Carnage)
+(Morbid Opportunist)
+(Grim Haruspex)
+(Rakdos Patron of Chaos)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+12 Ramp: 35 lands
+Undercity Scrounger
+Burnished hart
+Rodeo Pyromancers
+Prosper Tome-Bound
+Sticky fingers
+Ruthless Knave
+Solemn Simulacrum
+Coldsteel Heart
+Arcane Signet
+Pitiless Plunderer	O S
+Ashnod Altar		SC
+Reckless Barbarian	SC
+
+TBD:
+Letter of Acceptance
+Guardian Idol
+Rakdos Locket
+Ashnod flesh mechanist
+The Irencrag
+Oasis Gardener
+Ornithopter of Paradise
+Mind Stone
+Lobelia Sackville Baggins
+Dark Ritual
+(Magda the hoardmaster)
+(Glittering Stockpile)
+(firemind vessel)
+(Decadent Dragon)
+(Professional Face Beaker)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+30 Synergy
+(SaCrfice, cRime, Outlaws, Summoner, Aristocrat, Engine, eXile, Dragon, Legendary)
+Rictus Robber			S O
+Scalestorm Summoner		S O
+Tinybones The Pickpocket	O C
+Laughing Jasper Flint		O R X
+At Knifepoint			O SC C
+Deadeye Duelist			O
+Zoyowa				SC O
+Forsaken Miner			O R
+Dualcaster Mage			O
+Professor's warning		C
+Urabrask's Forge		S
+Chainer Nightmare Adept 	S
+No One Left Behind		R
+Blood for Bones			SC R
+Blood Artist			A
+Body Dropper			SC E
+Makeshift Munitions 		SC
+Rakdos Joins Up			C L S
+Animation Module		SC C
+Undying Malice			C
+Rankle and Torbran		SC
+Mayhem Devil			SC
+Juri Master of the Revue	A
+Reassembling Skeleton		SC
+Molten Duplication		SC
+Nalfeshnee			SC X
+Lagomos Hand of Hatred		S
+Sengir Connoisseur		E
+
+
+
+TBD:
+(Sauron the Lidless Eye)
+(Zealous Conscripts)
+(Song Mad Treachery)
+(Grave Pact)
+(Atsushi blazing sky)		D, L, X
+(Braids Arisen Nightmare)	SC
+(Servant of the Stinger)	O, SC
+Abyssal Gorestalker		S
+Diminished Returner		S
+Ferocification	
+Doublecast			R
+Vraan Executioner	
+Tomakul Phoenix			S
+Demon of Loathing		SC
+Dragonwing Glider		F DMG
+Fallaji Antiquarian		G
+(Outlaws fury)
+(Kethek Crucible Goliath)
+(Redcap gutter)			SC
+(Orcish Bowmasters)		S
+(Goblin Bombardment)
+(Demonic Tutor) 
+(Witch oven)
+(Cauldron Familiar)
+
+
+
+
+(Dead man's chest)		E
+
+(Open the Graves)
+(Malefic Scythe)
+(Rush of Dread)
+(Olivia Crimson Bride)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Synergies:
+
+Sacrifice
+Rakdos the Muscle + Forsaken Miner + 
+Reassembling Skeleton + Pitiless Plunderer + Ashnod's Altar
+Reassembling Skeleton + Ashnod's Altar + Pitiless Plunderer + Mayhem Devil
+Juri, Master of the Revue + Animation Module + Ashnod's Altar
+(Olivia, Crimson Bride + Port Razer + Goblin Bombardment)
+(Olivia, Crimson Bride + Port Razer + Altar of Dementia)
+(Body Dropper + Animation Module + Ashnod's Altar)
+
+Treasure:
+Molten Duplication + Dualcaster Mage
+
+Lifegain:
+(Exquisite Blood + Sanguine Bond)
+
+Deck:
+https://edhrec.com/deckpreview/u71vVAseGxtluVvbtG8Q6w#instant
+https://edhrec.com/deckpreview/FD3k7gTq2_fXZoBQPAhlDg#enchantment - 35 lands

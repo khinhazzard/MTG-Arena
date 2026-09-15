@@ -1,0 +1,165 @@
+
+
+1 Commander: Rakdos The Muscle
+
+5 board wipes:
+Flame Sweep
+Gix's Command
+Siege Dragon
+Urabrask
+Rankle's Prank
+
+TBD:
+(cosmotronic wave)
+(the meathook massacre)
+(blood money)
+(massacre girl)
+----------------------
+7 Removal:
+Pile On
+Murder
+Go for the Throat
+Bedevil
+Feed the Swarm
+Deadly Derision
+Smelt
+
+TBD:
+Annihilating Glare
+Shock
+Get the point
+Toral's Disciple
+Intruder's Inquisition
+Inescapable Blaze
+Melt Through
+(Heartless Act)
+(Skewer the Critics)
+(imp mischief)
+(Call in a Professional)
+(Extract the Truth)
+----------------------
+10 Draw:
+Stormclaw Rager
+Mirror of Galadriel
+Demand Answers
+Vampiric Rites
+Bad Deal
+Hearth Elemental
+Corrupted Conviction
+Fatal Grudge
+Village Rites
+Phyrexian Arena
+
+TBD:
+Phyrexian Gargantua
+Ichor Wellspring
+(Grim Haruspex)
+(Reckoner's Bargain)
+(Rakdos, Patron of Chaos)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+10 Ramp: 37 lands
+Solemn Simulacrum
+Ornithopter of Paradise
+Lobelia Sackville Baggins
+Ashnod flesh mechanist
+Guardian Idol
+Coldsteel Heart
+Arcane Signet
+Mind Stone
+Prosper Tome-Bound
+Rakdos Locket
+
+TBD:
+The Irencrag
+Oasis Gardener
+(burnished hart)
+(Rodeo Pyromancers)
+(Undercity Scrounger)
+(Glittering Stockpile)
+(letter of acceptance)
+(firemind vessel)
+(Ruthless Knave)
+(Decadent Dragon)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+30 Synergy (Sacrfice + Outlaws)
+Spark Reaper
+Doublecast
+Undying Malice
+Makeshift Munitions
+Deadeye Duelist
+Urabrask's Forge
+Rankle and Torbran
+Zoyowa
+Chainer Nightmare Adept
+Vraan Executioner
+Fallaji
+Diminished Returner
+Mayhem Devil
+Juri Master of the Revue
+No One Left Behind
+Purphoros Intervention
+Forsaken Miner
+Pitiless Plunderer
+Ashnod Altar
+Reassembling Skeleton
+Animation Module
+Molten Duplication
+Dualcaster Mage
+Rakdos Joins Up
+Reckless Barbarian
+Nalfeshnee
+At Knifepoint
+Lagomos
+Blood for Bones
+
+
+
+TBD:
+Gixian Recycler
+Fanatical Firebrand
+Gingerbrute
+Bloated Processor
+Tomakul Phoenix
+Tinybones The Pickpocket
+Demon of Loathing
+Dragonwing Glider
+Ghitu
+Shivan Devastator
+Grafted Butcher
+Charforger
+(Raven of Fell Omens)
+(Diabolic Intent)
+(Malefic Scythe)
+(Plaguecrafter)
+(Midnight Assassin)
+(Body Dropper)
+(Akul the unrepentant)
+(professor's warning)
+(Rush of Dread)
+(ferocification)
+(Deadeye Duelist)
+(Blood for Bones)
+(Squee the Immortal)
+(Olivia Crimson Bride)
+(Hoarding Broodlord)
+(Magda the hoardmaster)
+(Reanimate)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Synergies:
+
+Sacrifice
+Reassembling Skeleton + Pitiless Plunderer + Ashnod's Altar
+Reassembling Skeleton + Ashnod's Altar + Pitiless Plunderer + Mayhem Devil
+Juri, Master of the Revue + Animation Module + Ashnod's Altar
+(Olivia, Crimson Bride + Port Razer + Goblin Bombardment)
+(Olivia, Crimson Bride + Port Razer + Altar of Dementia)
+(Body Dropper + Animation Module + Ashnod's Altar)
+
+Treasure:
+Molten Duplication + Dualcaster Mage
+
+Lifegain:
+(Exquisite Blood + Sanguine Bond)
+
+Deck:
+https://edhrec.com/deckpreview/u71vVAseGxtluVvbtG8Q6w#instant

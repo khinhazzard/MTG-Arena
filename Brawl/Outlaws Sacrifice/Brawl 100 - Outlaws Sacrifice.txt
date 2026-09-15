@@ -1,0 +1,246 @@
+BR Outlaws Sacrifice: Sacrifice Outlet, Sacrifice Resource, Outlaw, Crime, Legend, Exile, Aristocrat, Revive, Summoner
+
+1 commander
+5 board wipes (if single target removel spell is not enough)
+8 removal spells (answers to threats)
+10 draw
+36 land
+10 ramp (Creatures/Spell/Artifacts that produce or search land)
+30 synergies (where creatures mostly fall under, utility)
+(at least 25 creatures)
+(30-25 creatures if focused on combat damage synergy)
+
+Mana Curve:
+1 0-4						2
+2 6-10						10
+3 6-9						9
+4 4-7						6
+5 2-5						4(1)
+6-9 0-4						3
+Total Creatures:				36
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+1 Commander: Rakdos, The Muscle			SO, O, C, L, E, A
+~~~~~~~~~~~~~~~~~~~~~~
+Lands:
+
+
+~~~~~~~~~~~~~~~~~~~~~~
+Combat Tricks:
+
+~~~~~~~~~~~~~~~~~~~~~~
+Protection:
+Undying Malice
+Not Dead After All				R
+Swiftfoot Boots
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+5 Board Wipes ( if single target removel spell is not enough)
+Massacre girl					O, L
+Blood money
+Brotherhood's End
+Gix's Command					R
+Siege Dragon	
+
+TBD:
+Death rattle oni	
+Flame Sweep
+Glistening Deluge
+(The Meathook Massacre)
+(Blood on the Snow)
+(Demon of Dark Schemes)				S
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+8 Removal Spells (answers to threats)
+Liliana of the Veil				C
+Fatal Grudge					SO
+Traumatic Prank					C
+Bedevil						C
+Feed the Swarm					C
+Claim the Firstborn				C
+Shattering Finale				C, SO
+Plaguecrafter					SO
+Accursed Marauder				SO
+Shoot the Sheriff				C
+Fling						SO, C
+
+TBD:
+Black Sun's Twilight				C, R
+Bone Spliters					SO
+Murder						C
+Go for the Throat				C
+Rooftop Assassin				C, O
+Pyrrhic Blast					SO, C
+(Bitter Triumph)
+(Lightning Bolt)				C
+(Tibalt's Trickery)				C
+(Abrade)
+(Rebel Salvo)					C
+(Sheoldred's Edict)	
+(Angrath the Flame-Chained)		
+(Infernal Grasp)				C
+(Baleful Mastery)				C
+(Fling)						C, SO	
+(Angrath Rampage)				C
+(Furnace Reins)					C
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+10 draw
+Deadly Dispute					SO
+Jaxis the troublemaker				L, S
+Village Rites					SO
+Spark Reaper					SO
+Garna Bloodfist					A
+Demand Answers					SO
+Rakdos Patreon of Chaos				L, C			
+Stormclaw Rager					SO
+
+TBD:
+Corrupted Conviction				SO
+Reckoner's Bargain				SO
+Bad Deal
+Gix Yawgmoth Preator				X
+(Yawgmoth)
+(Midnight Reaper)				A
+(Braids Arisen Nightmare)			L
+(Morbid Opportunist)				A, O
+(Sheoldred)
+(Liliana Dreadhorde General)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+10 Ramp: 36 lands
+Solemn Simulacrum
+Arcane Signet
+Ashnod Altar					SO
+Prosper Tome-Bound				O, X, L
+Burnished hart
+Dark Ritual
+Reckless Barbarian
+Ruthless Knave					SO, O
+Magda the Hoardmaster				S, A
+
+
+TBD:
+Sticky fingers
+Mind Stone
+Coldsteel Heart
+Crime Novelist					A
+Rakdos Locket
+Letter of Acceptance
+Undercity Scrounger				O
+Rodeo Pyromancers				O
+(Atsushi the Blazing Sky)			L, E
+(Magda the Hoardmaster)				A, L
+(Bank Job)					E
+(Phyrexian Tower)				SO
+(Fable of the Mirror-Breaker)
+(Treasure Dredger)				O
+
+Land:
+(Castle Locthwain)
+(Takenuma Abandoned Mine)
+(Agadeem Awakening)				R
+(Sokenzan, Crucible of Defiance)		S
+(Shatterskull Smashing)
+(Blightstep Pathway)
+(Blood Crypt)
+(Dragonskull Summit)
+(Restless Vents)
+(Raucous Theater)
+(Bloodstained Mire)
+(Cavern of Souls )
+(Forsaken Crossroads)
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+30 Synergy
+Helm of the Host				S
+Bloodghast					R
+Dreg Recycler					SO, LG
+Orcish Bowmasters				C, CR, S
+Pitiless Plunderer				O
+Nalfeshnee					S, X
+Chainer Nightmare Adept				R
+Forsaken Miner					O, R
+Reassembling Skeleton				R
+Rakdos Joins Up					R, L, A, C
+Mayhem Devil					A
+Body Dropper					SO, A
+Blood Artist					A, C
+At Knifepoint					O, S
+Laughing Jasper Flint				O, X, C, L
+Gray Merchant of Asphodel			LG
+Junji the Midnight Sky				L, R	
+Ayara Widow of the Realm 			SO, LG, S
+Eriette's Tempting Apple			LG, C
+Vat of Rebirth					R
+Nezumi Linkbreaker				O, S
+
+
+TBD
+Zoyowa						O, A, L
+Makeshift Munitions 				SO, C
+Blood Hustler					O, C, LG
+Dualcaster Mage					O, C
+Raven of Fell Omens				A, LG, FL
+Tinybones The Pickpocket			O, C
+Deadeye Duelist					O, C
+Molten Duplication				S
+Permanent:
+Harried Dronesmith				S
+Rictus Robber					O, S
+Reckless Lackey					O
+Hollow Marauder					O, C
+Urabrask Forge					S
+Lagomos Hand of Hatred				S, L
+Diminished Returner				R
+Greedy Freebooter				O
+(Virtue of Persistence)				R, C
+(Boneyard desecrator)				O, SO, E
+(Servant of the Stinger)			O
+(Orthion Hero of Lavabrink)			S, L
+(Captivating Crew)				O, C
+(Zulaport Cutthroat)				A, O
+(Vein Ripper)					O, A
+(Squee the Immortal)				R
+(Bloodsoaked Champion)				R
+(Ragavan Nimble Pilferer)			O, E	
+(Nightmare Shepherd)				A, S	
+(Hoarding Broodlord)				E
+(Akul the Unrepentant)				O, SO, L, S
+(Midnight Assassin)				O
+(Kethek Crucible Goliath)			SO, S, L
+(Aclazotz Deepest Betrayal)			S, L, R
+(Rankle Master of Pranks)			O, SO
+(Goblin Bombardment)				SO
+(Kaervek the Punisher)				O, E
+(Acquisitions Expert)				C, O
+(Bitterblossom)					S
+(Diabolic Intent)				SO
+(Sanguine Brushstroke)				A
+(Woe Strider)					SO
+(Grave Pact)
+(Rekindling Phoenix)				R
+(Lord Skitter Sewer King)			S
+(Xander's Wake)
+(Forgefire Automaton)				S
+(Swarm Saboteur)				S
+(Jadar Ghoulcaller)				O, C
+(Bolas Citadel)
+(Raphael Fiendish Savior)			S, A
+(Hellspur Posse Boss)				O, S
+
+Spells:
+Professor's warning
+(Reanimate)					R
+(Lively Dirge)					R
+(Reanimate)					R
+(Diabolic Intent)
+(Malakir Rebirth)
+(Thought Distortion)
+(Thoughtseize)
+(Kolaghan's Command)				R,C
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Combos:
+Reassembling Skeleton + Pitiless Plunderer + Ashnod's Altar
+Bloodsoaked Champion + Pitiless Plunderer + Ashnod's Altar
+
+Deck: https://pastebin.com/raw/LVgPYPvv
