@@ -44,7 +44,7 @@ Commander(X) Sin, Spira's Punishment
 (3) Cultivate
 (3) Chromatic Lantern
 (4) The Water Crystal
-(4) Hedron Archive
+(4) Hedron Archive → (4) Key to the Archive (testing)
 (7) Virtue of Strength
 (7) Kiora Bests the Sea God
     → by stealing land
