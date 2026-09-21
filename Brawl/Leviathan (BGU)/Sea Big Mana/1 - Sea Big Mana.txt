@@ -44,7 +44,7 @@ Commander(X) Sin, Spira's Punishment
 (3) Cultivate
 (3) Chromatic Lantern
 (4) The Water Crystal
-(4) Hedron Archive → (4) Key to the Archive (testing)
+(4) Key to the Archive
 (7) Virtue of Strength
 (7) Kiora Bests the Sea God
     → by stealing land
@@ -190,6 +190,8 @@ Ramp
     → Replaced by (4) Hedron Archive
 (3) Kiora, Behemoth Beckoner
     → Returned to deck; classified as Utility / Card Draw
+(4) Hedron Archive 
+    → Replaced by (4) Key to the Archive
 
 Board
 (3) Filter Out
