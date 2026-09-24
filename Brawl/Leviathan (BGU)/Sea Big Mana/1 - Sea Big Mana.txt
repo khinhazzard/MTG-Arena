@@ -131,6 +131,7 @@ Ramp:
 (4) Nyx Lotus
 (2) Shared Roots
 (5) Traverse the Outlands
+(10) Omniscience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Future Lands
 
