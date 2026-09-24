@@ -101,10 +101,6 @@ Evaluating Cards:
     → The Bad: depends on existing creatures to have high value
     → The Good: card draw + merfolk
 
-(7) Nyxbloom Ancient
-    → The Bad: High Mana Cost with 3 Green, not a sea monster
-    → The Good: Good Graveyard target for commander, Solves Mana issues
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Get / Test (Priority)
 
@@ -193,6 +189,8 @@ Ramp
 (3) Growing Rites of Itlimoc
     → Replaced by (2) Sapphire Medallion
 (7) Nyxbloom Ancient
+    → The Bad: High Mana Cost with 3 Green, not a sea monster
+    → The Good: Good Graveyard target for commander, Solves Mana issues
     → Replaced by (4) Hedron Archive
 (3) Kiora, Behemoth Beckoner
     → Returned to deck; classified as Utility / Card Draw
