@@ -34,7 +34,7 @@ Commander(X) Sin, Spira's Punishment
 (12) Icebreaker Kraken
 
 ~~~~~~~~~~~~~~~~~~~~
-🌱 Theme 2: Big Mana / Ramp - 14
+🌱 Theme 2: Big Mana / Ramp - 15
 (1) Exploration
 (2) Arcane Signet
 (2) Sapphire Medallion
@@ -126,6 +126,11 @@ Get / Test (Priority)
 (3) Tireless Angler
 (3) Tome of the Infinite
 
+Ramp:
+(4) Planar Engineering
+(4) Nyx Lotus
+(2) Shared Roots
+(5) Traverse the Outlands
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Future Lands
 

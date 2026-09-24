@@ -187,6 +187,7 @@ Counterspells:
 (3)Archmage's Charm
 (3)Sinister Sabotage			SV
 (3)Force of Negation
+(3)Disallow
 (4)Rewind				Land Untapper
 (1)Flusterstorm
 (4)Cryptic Command
