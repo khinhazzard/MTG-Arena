@@ -88,4 +88,4 @@ Deck
 1 Gyruda, Doom of Depths (MUL) 107
 1 Kiora, Behemoth Beckoner (WAR) 232
 1 Sapphire Medallion (MH3) 296
-1 Hedron Archive (FDN) 726
+1 Key to the Archive (Y22) 59
