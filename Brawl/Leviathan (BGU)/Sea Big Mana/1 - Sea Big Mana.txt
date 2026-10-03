@@ -1,7 +1,7 @@
 Commander(X) Sin, Spira's Punishment
 
 ~~~~~~~~~~~~~~~~~~~~
-🌊 Theme 1: Sea Monsters (Main Theme) - 30
+🌊 Theme 1: Sea Monsters (Main Theme) - 31
 (2) Caelorna, Coral Tyrant
 (2) Ominous Seas
 (3) Nadir Kraken
@@ -21,6 +21,7 @@ Commander(X) Sin, Spira's Punishment
 (6) Lochmere Serpent
 (6) Grappling Kraken
 (6) Gyruda, Doom of Depths
+(6) Serpent of Yawning Depths
 (7) Koma, Cosmos Serpent
 (7) Hullbreaker Horror
 (7) Koma, World-Eater
@@ -34,7 +35,7 @@ Commander(X) Sin, Spira's Punishment
 (12) Icebreaker Kraken
 
 ~~~~~~~~~~~~~~~~~~~~
-🌱 Theme 2: Big Mana / Ramp - 15
+🌱 Theme 2: Big Mana / Ramp - 14
 (1) Exploration
 (2) Arcane Signet
 (2) Sapphire Medallion
@@ -48,7 +49,6 @@ Commander(X) Sin, Spira's Punishment
 (7) Virtue of Strength
 (7) Kiora Bests the Sea God
     → by stealing land
-(8) Lumra, Bellow of the Woods
 (8) Through the Forest Gate
 (9) The Great Henge
 
@@ -99,6 +99,7 @@ Evaluating Cards:
 
 (6) Prime Speaker Zegana
     → The Bad: depends on existing creatures to have high value
+    → The Bad: low base power, cannot trigger monstrous vortex
     → The Good: card draw + merfolk
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -198,6 +199,8 @@ Ramp
     → Returned to deck; classified as Utility / Card Draw
 (4) Hedron Archive 
     → Replaced by (4) Key to the Archive
+(8) Lumra, Bellow of the Woods
+	→ replaced with (6) Serpent of Yawning Depths
 
 Board
 (3) Filter Out
