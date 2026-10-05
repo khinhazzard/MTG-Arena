@@ -76,7 +76,7 @@ Deck
 1 Waker of Waves (J25) 383
 1 Runo Stromkirk (VOW) 246
 1 Tatyova, Benthic Druid (FDN) 247
-1 Lumra, Bellow of the Woods (BLB) 183
+1 Serpent of Yawning Depths (THB) 291
 1 The Water Crystal (FIN) 85
 1 Command Beacon (FCA) 64
 1 Arcane Signet (ANB) 117
