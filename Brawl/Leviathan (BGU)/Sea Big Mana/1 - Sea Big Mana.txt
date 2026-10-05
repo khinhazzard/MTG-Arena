@@ -93,14 +93,13 @@ Board Wipes (5)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Evaluating Cards:
-(6) Lumra, Bellow the Woods
-    → The Bad: not a sea monster
-    → The Good: can block air + ramp
-
 (6) Prime Speaker Zegana
-    → The Bad: depends on existing creatures to have high value
-    → The Bad: low base power, cannot trigger monstrous vortex
-    → The Good: card draw + merfolk
+	→ The Bad: depends on existing creatures to have high value
+	→ The Bad: low base power, cannot trigger monstrous vortex
+	→ The Good: card draw + merfolk
+(7) Colossal SkyTurtle
+	→ The Bad: not a sea creature
+	→ The Good: at low mana cost, can return any target card from graveyard, including any land or ramp, combos well with Entomb, can block air
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Get / Test (Priority)
@@ -110,8 +109,7 @@ Get / Test (Priority)
 (4) Reservoir Kraken
 (8/7) Elder Deep-Fiend
 
-(5) Gilded Lotus
-(3) Pristine Talisman
+
 
 (3) Force of Negation
 (4) Shark Shredder
@@ -124,11 +122,13 @@ Get / Test (Priority)
 (3) Tome of the Infinite
 
 Ramp:
+(1) Burgeoning
+(2) Shared Roots
+(3) Bender's Waterskin
+(3) Pristine Talisman
 (4) Planar Engineering
 (4) Nyx Lotus
-(2) Shared Roots
-(1) Burgeoning
-(3) Bender's Waterskin
+(5) Gilded Lotus
 (5) Traverse the Outlands
 (10) Omniscience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
