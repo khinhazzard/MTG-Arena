@@ -32,6 +32,7 @@ Commander(X) Sin, Spira's Punishment
 (8) Striped Riverwinder
 (8) Famished Worldsire
 (8) Lorthos, the Tidemaker
+(8) Elder Deep-Fiend
 (12) Icebreaker Kraken
 
 ~~~~~~~~~~~~~~~~~~~~
@@ -97,9 +98,6 @@ Evaluating Cards:
 	→ The Bad: depends on existing creatures to have high value
 	→ The Bad: low base power, cannot trigger monstrous vortex
 	→ The Good: card draw + merfolk
-(7) Colossal SkyTurtle
-	→ The Bad: not a sea creature
-	→ The Good: at low mana cost, can return any target card from graveyard, including any land or ramp, combos well with Entomb, can block air
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Get / Test (Priority)
@@ -201,6 +199,11 @@ Ramp
     → Replaced by (4) Key to the Archive
 (8) Lumra, Bellow of the Woods
 	→ replaced with (6) Serpent of Yawning Depths
+(7) Colossal SkyTurtle
+	→ The Bad: not a sea creature
+	→ The Good: at low mana cost, can return any target card from graveyard, including any land or ramp, combos well with Entomb, can block air
+	→ Replaced by (8) Elder Deep-Fiend
+
 
 Board
 (3) Filter Out
