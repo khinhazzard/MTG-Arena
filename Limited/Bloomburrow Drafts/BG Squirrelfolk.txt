@@ -1,0 +1,73 @@
+BG Squirrelfolk: SQuirrel, FooD
+
+Strategy:
+Dominate the mid game with big creatures and creature removal spells. Look for ways to fill your graveyard and create Food to take advantage of the Squirrels' Forage mechanic.
+
+
+~~~~~~~~~~~~~~~~~~~~~~
+Mana Curve:
+1 0-2						1
+2 4-6						4
+3 3-5						5
+4 2-4						4
+5 1-3						0
+6-9 0-2						2
+
+Total Creatures:
+
+~~~~~~~~~~~~~~~~~~~~~~
+Lands:
+
+Hidden Grotto
+
+~~~~~~~~~~~~~~~~~~~~~~
+Combat Tricks:
+High Stride
+Scales of Shale
+
+~~~~~~~~~~~~~~~~~~~~~~
+Protection:
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~
+3 Board Wipes
+
+~~~~~~~~~~~~~~~~~~~~~~
+3-6 Removal Spells
+Longstalk Brawl
+Wear Down
+Savor				FD
+Psychic Whorl
+Nocturnal Hunger
+Ruthless Negotiation
+
+~~~~~~~~~~~~~~~~~~~~~~
+6-7 Draw
+Fountainport Bell
+2x Treetop Sentries
+Pawpatch Formation
+
+~~~~~~~~~~~~~~~~~~~~~~
+4-6 Ramp
+Heaped Harvest
+
+~~~~~~~~~~~~~~~~~~~~~~
+Recursion
+Bonebind Orator			SQ
+
+
+~~~~~~~~~~~~~~~~~~~~~~
+18 Synergies
+Bushy Bodyguard			SQ
+Galewind Mouse
+2x Corpseberry Cultivator	SQ
+2x Thornplate Intimidator
+Ravine Raider
+Starlit Soothsayer
+Thought Stalker Warlock
+Vinereap Mentor			SQ, FD
+Huskbuster Swarm
+Bakersbane Duo			SQ, FD
+Honored Dreyleader		SQ, FD
+Barkform Harvester
