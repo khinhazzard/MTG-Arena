@@ -99,6 +99,10 @@ Evaluating Cards:
 	→ The Bad: low base power, cannot trigger monstrous vortex
 	→ The Good: card draw + merfolk
 
+(7) Waker of Waves
+	→ The Bad: Not a Sea Creature
+	→ The Good: good card filter when no land early, 
+	→ The Good: deals with mass 1/1 tokens
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Get / Test (Priority)
 
