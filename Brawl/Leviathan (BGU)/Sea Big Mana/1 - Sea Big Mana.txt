@@ -103,15 +103,12 @@ Evaluating Cards:
 	→ The Bad: Not a Sea Creature
 	→ The Good: good card filter when no land early, 
 	→ The Good: deals with mass 1/1 tokens
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Get / Test (Priority)
 
 (5) The Unagi of Kyoshi Island
-(6) Serpent of Yawning Depths
 (4) Reservoir Kraken
-(8/7) Elder Deep-Fiend
-
-
 
 (3) Force of Negation
 (4) Shark Shredder
