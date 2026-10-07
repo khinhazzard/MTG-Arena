@@ -98,6 +98,7 @@ Evaluating Cards:
 	→ The Bad: depends on existing creatures to have high value
 	→ The Bad: low base power, cannot trigger monstrous vortex
 	→ The Good: card draw + merfolk
+	→ The Good: nice to discard, and nice target for Sin from graveyard
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Get / Test (Priority)
