@@ -118,6 +118,7 @@ Get / Test (Priority)
 
 Ramp:
 (1) Burgeoning
+(1) Carpet of Flowers
 (2) Shared Roots
 (2) Malevolent Rumble
 (3) Bender's Waterskin
