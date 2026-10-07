@@ -37,7 +37,7 @@ Notable Combos
 + Slinn Voda (Kicked) = Reset non-Sea creature boards.
 + Cyclonic Rift (Overload) = Reset opposing boards.
 + Stormtide Leviathan + Whelming Wave = Clear opposing creatures while your Sea Monsters remain.
-+ Icebreaker Kraken = Lock down opposing creatures/artifacts for a turn.
++ Kiora Bests the Sea God + Icebreaker Kraken = Mass Creature Tap Lock down for 2 turns.
 
 🌾 Land Value
 + Lumra + Harrow = Recover sacrificed lands.
