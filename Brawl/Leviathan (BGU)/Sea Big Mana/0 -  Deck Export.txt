@@ -73,7 +73,6 @@ Deck
 1 Kiora Bests the Sea God (THB) 52
 1 Grappling Kraken (FDN) 39
 1 Virtue of Strength (WOE) 197
-1 Waker of Waves (J25) 383
 1 Runo Stromkirk (VOW) 246
 1 Tatyova, Benthic Druid (FDN) 247
 1 Serpent of Yawning Depths (THB) 291
@@ -90,3 +89,4 @@ Deck
 1 Key to the Archive (Y22) 59
 1 Elder Deep-Fiend (SIR) 5
 1 Pristine Talisman (BRR) 43
+1 Archipelagore (IKO) 41
