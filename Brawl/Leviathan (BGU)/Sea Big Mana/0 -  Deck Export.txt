@@ -52,9 +52,8 @@ Deck
 1 Kozilek's Unsealing (MH3) 65
 7 Snow-Covered Island (KHM) 279
 6 Snow-Covered Forest (KHM) 285
-1 Fell the Profane (MH3) 244
 1 Caelorna, Coral Tyrant (DFT) 40
-1 Snow-Covered Swamp (KHM) 281
+2 Snow-Covered Swamp (KHM) 281
 1 Famished Worldsire (EOE) 182
 1 Cyclonic Rift (RTR) 35
 1 Kiora, Sovereign of the Deep (MAT) 35
@@ -80,7 +79,7 @@ Deck
 1 Command Beacon (FCA) 64
 1 Arcane Signet (ANB) 117
 1 Psychic Pickpocket (SNC) 54
-1 Striped Riverwinder (AKR) 82
+1 Reservoir Kraken (SNC) 56
 1 Glacier Godmaw (EOE) 188
 1 Koma, World-Eater (FDN) 121
 1 Gyruda, Doom of Depths (MUL) 107
@@ -89,4 +88,4 @@ Deck
 1 Key to the Archive (Y22) 59
 1 Elder Deep-Fiend (SIR) 5
 1 Pristine Talisman (BRR) 43
-1 Archipelagore (IKO) 41
+1 Junk Winder (MH2) 48
