@@ -9,6 +9,7 @@ Commander(X) Sin, Spira's Punishment
 (3) Sea-Dasher Octopus
 (3) Runo Stromkirk
 (4) Charix, the Raging Isle
+(4) Reservoir Kraken
 (4) Kiora, the Crashing Wave
 (4) Monstrous Vortex
 (5) Mesmerizing Benthid
@@ -25,11 +26,10 @@ Commander(X) Sin, Spira's Punishment
 (7) Koma, Cosmos Serpent
 (7) Hullbreaker Horror
 (7) Koma, World-Eater
-(7) Archipelagore
 (7) Glacier Godmaw
 (8) Stormtide Leviathan
 (8 or 10) Slinn Voda, the Rising Deep
-(8) Striped Riverwinder
+
 (8) Famished Worldsire
 (8) Lorthos, the Tidemaker
 (8) Elder Deep-Fiend
@@ -45,6 +45,7 @@ Commander(X) Sin, Spira's Punishment
 (3) Harrow
 (3) Cultivate
 (3) Chromatic Lantern
+(3) Pristine Talisman
 (4) The Water Crystal
 (4) Key to the Archive
 (7) Virtue of Strength
@@ -59,7 +60,6 @@ Commander(X) Sin, Spira's Punishment
 (7) Waker of Waves
 (3) Compulsive Research
 (3) Kiora, the Rising Tide
-(8) Dig Through Time
 (X) Sin, Spira's Punishment
 
 ~~~~~~~~~~~~~~~~~~~~
@@ -110,7 +110,7 @@ Evaluating Cards:
 Get / Test (Priority)
 
 (5) The Unagi of Kyoshi Island
-(4) Reservoir Kraken
+
 
 (3) Force of Negation
 (4) Shark Shredder
@@ -119,7 +119,6 @@ Get / Test (Priority)
 (2) Dredger's Insight
 (2) Collective Brutality
 (3) Soul Shatter
-(3) Tireless Angler
 (3) Tome of the Infinite
 (6) Crush of Tentacles (Board Wipe)
 
@@ -150,19 +149,20 @@ Overgrown Tomb (Swamp / Forest)
 Deck Card History
 
 Sea Monsters
-
 (5) The Watcher in the Water
 (5) Iceridge Serpent
 (7) Starwinder
     → Replaced by (7) Koma, World-Eater
-(7) Junk Winder
-    → Replaced by (7) Colossal Skyturtle
 (6) Tolarian Kraken
     → Replaced by (6) Prime Speaker Zegana
 (7) Glint Weaver
     → Replaced by (8) Lorthos, the Tidemaker
+(7) Striped Riverwinder
+	→ Replaced by (7) Junk Winder
 (X) Xolatoyac, the Smiling Flood
     → Replaced by (6) Gyruda, Doom of Depths
+(7) Archipelagore
+(9) Thing from the Deep
 
 Graveyard / Looting
 (2) Strategic Planning
@@ -179,6 +179,7 @@ Graveyard / Looting
 (1) Consider
 (3) Frantic Search
     → Replaced by (3) Compulsive Research
+(8) Dig Through Time
 
 Ramp
 (1) Culling the Weak
@@ -227,6 +228,7 @@ Removal
 (3) Awaken the Honored Dead
     → Replaced by (2) Assassin's Trophy
 
+
 Protection
 (1) Haywire Mite
 (1) Tamiyo's Safekeeping
@@ -244,7 +246,6 @@ Other
 	→ The Good: good card filter when no land early, 
 	→ The Good: deals with mass 1/1 tokens
 	→ Replaced by (7) Archipelagore
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Inspirational Source:
 https://edhrec.com/deckpreview/r0MNtM5q1KNWm79UkKlKPA
