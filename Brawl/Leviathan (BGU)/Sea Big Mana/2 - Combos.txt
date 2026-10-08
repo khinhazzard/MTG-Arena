@@ -44,6 +44,9 @@ Notable Combos
 + Westvale Abbey = Long-game mana sink / alternate win condition.
 + Exploration + extra lands = Accelerate land development.
 
+• Creature Tutor
++ Entomb + Runo Stormkirk = Draw any creature next turn
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ENTOMB PRIORITY
 
