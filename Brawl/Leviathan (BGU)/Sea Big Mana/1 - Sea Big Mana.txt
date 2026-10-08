@@ -35,7 +35,7 @@ Commander(X) Sin, Spira's Punishment
 (12) Icebreaker Kraken
 
 ~~~~~~~~~~~~~~~~~~~~
-🌱 Theme 2: Big Mana / Ramp - 14
+🌱 Theme 2: Big Mana / Ramp - 15
 (1) Exploration
 (2) Arcane Signet
 (2) Sapphire Medallion
@@ -54,9 +54,8 @@ Commander(X) Sin, Spira's Punishment
 (9) The Great Henge
 
 ~~~~~~~~~~~~~~~~~~~~
-♻️ Theme 3: Graveyard Value / Looting - 6
+♻️ Theme 3: Graveyard Value / Looting - 4
 (1) Entomb
-(7) Waker of Waves
 (3) Compulsive Research
 (3) Kiora, the Rising Tide
 (X) Sin, Spira's Punishment
@@ -70,13 +69,13 @@ Counterspells (4)
 (3) Flare of Denial
 (5) Spell Swindle
 
-Spot Removal
+Spot Removal (4)
 (2) Assassin's Trophy
 (L) Fell the Profane
 (L) Boseiju, Who Endures
 (L) Otawara, Soaring City
 
-Board Wipes (5)
+Board Wipes (6)
 (4) Culling Ritual
 (4) Whelming Wave
 (2 or 8) Cyclonic Rift
@@ -89,8 +88,8 @@ Board Wipes (5)
 (3) Kiora, Behemoth Beckoner
 (3) Rhystic Study
 (5) Tatyova, Benthic Druid
-(7) Colossal Skyturtle
 (Land) Waterlogged Teachings
+(6) Junk Winder
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Evaluating Cards:
