@@ -9,7 +9,6 @@ Commander(X) Sin, Spira's Punishment
 (3) Sea-Dasher Octopus
 (3) Runo Stromkirk
 (4) Charix, the Raging Isle
-(4) Reservoir Kraken
 (4) Kiora, the Crashing Wave
 (4) Monstrous Vortex
 (5) Mesmerizing Benthid
@@ -29,10 +28,10 @@ Commander(X) Sin, Spira's Punishment
 (7) Glacier Godmaw
 (8) Stormtide Leviathan
 (8 or 10) Slinn Voda, the Rising Deep
-
 (8) Famished Worldsire
 (8) Lorthos, the Tidemaker
 (8) Elder Deep-Fiend
+(9) Thing from the Deep
 (12) Icebreaker Kraken
 
 ~~~~~~~~~~~~~~~~~~~~
@@ -73,7 +72,7 @@ Counterspells (4)
 
 Spot Removal
 (2) Assassin's Trophy
-(3) Beast Within
+(L) Fell the Profane
 (L) Boseiju, Who Endures
 (L) Otawara, Soaring City
 
@@ -83,6 +82,7 @@ Board Wipes (5)
 (2 or 8) Cyclonic Rift
 (8 or 10) Slinn Voda, the Rising Deep
 (6) Summon: Leviathan
+(6) Flood of Tears
 
 ~~~~~~~~~~~~~~~~~~~~
 ⭐ Utility
@@ -115,7 +115,6 @@ Get / Test (Priority)
 (3) Force of Negation
 (4) Shark Shredder
 (4) Consuming Tide
-(6) Flood of Tears
 (2) Dredger's Insight
 (2) Collective Brutality
 (3) Soul Shatter
@@ -162,7 +161,7 @@ Sea Monsters
 (X) Xolatoyac, the Smiling Flood
     → Replaced by (6) Gyruda, Doom of Depths
 (7) Archipelagore
-(9) Thing from the Deep
+(4) Reservoir Kraken
 
 Graveyard / Looting
 (2) Strategic Planning
@@ -227,7 +226,7 @@ Removal
 (2) Bitter Triumph
 (3) Awaken the Honored Dead
     → Replaced by (2) Assassin's Trophy
-
+(3) Beast Within
 
 Protection
 (1) Haywire Mite
