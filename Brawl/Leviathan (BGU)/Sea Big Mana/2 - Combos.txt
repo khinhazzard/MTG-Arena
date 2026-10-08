@@ -38,6 +38,8 @@ Notable Combos
 + Cyclonic Rift (Overload) = Reset opposing boards.
 + Stormtide Leviathan + Whelming Wave = Clear opposing creatures while your Sea Monsters remain.
 + Kiora Bests the Sea God + Icebreaker Kraken = Mass Creature Tap Lock down for 2 turns.
++ Flood of Tears + Virtue of Strength = Clear Board and you can recast easily
+
 
 🌾 Land Value
 + Lumra + Harrow = Recover sacrificed lands.
@@ -45,7 +47,7 @@ Notable Combos
 + Exploration + extra lands = Accelerate land development.
 
 • Creature Tutor
-+ Entomb + Runo Stormkirk = Draw any creature next turn
++ Entomb + Runo Stormkirk = Draw any creature next turn.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ENTOMB PRIORITY
