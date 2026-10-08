@@ -101,6 +101,10 @@ Evaluating Cards:
 	→ The Good: nice to discard, and nice target for Sin from graveyard
 
 (8) Dig Through Time
+	→ The Good: can filter unwanted cards on graveyard
+	→ The Good: helps searches badly needed cards like a board wipe or removal
+	→ The Bad: it gains card but doesn't trigger draw effect
+	→ The Bad: high mana cost
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Get / Test (Priority)
@@ -117,6 +121,7 @@ Get / Test (Priority)
 (3) Soul Shatter
 (3) Tireless Angler
 (3) Tome of the Infinite
+(6) Crush of Tentacles (Board Wipe)
 
 Ramp:
 (1) Burgeoning
@@ -124,7 +129,6 @@ Ramp:
 (2) Shared Roots
 (2) Malevolent Rumble
 (3) Bender's Waterskin
-(3) Pristine Talisman
 (4) Planar Engineering
 (4) Nyx Lotus
 (5) Gilded Lotus
